@@ -1,0 +1,21 @@
+Name: The Broken Dagger
+Location: In a market ward, surrounded by busy streets and active marketplaces. Its neighbors include the office of a female dwarf moneychanger named Syfla and the workshop of a female dwarf arkwright named Thildga Geitedotr.
+Description: The inn is a two-storey stone-walled building, with finely-crafted tables and chairs. A collection of fine tapestries hangs on the walls. Accomodations consist of several large rooms with beds and woolen mattresses.
+Innkeeper: The innkeeper is a short male human named Artis Parre. He is a retired soldier, and often tells stories of the Crusade of Nine Rings.
+
+Menu:
+Pickled Pork and Blue Cheese, Tankard of Mead (13 cp)
+Baked Phoenix and Buckwheat Biscuits, Glass of Mead (1 sp)
+Baked Phoenix and Dried Grapefruit, Glass of Wine (2 sp)
+Steamed Trout with Mace and Soft Cheese, Glass of Port (3 sp)
+
+Patrons:
+Ferog Gamgee: Male Halfling Assassin, Evil. Ferog has braided white hair and green eyes. He wears leather armor and wields a poisoned short sword and dagger. Ferog is talking quietly with a male halfling beggar.
+Wyny: Male Human Thief, Neutral. Wyny has tangled golden hair and blue eyes, and prominent ears. He wears leather armor and wields a dagger. Wyny seeks to free himself from an ancient curse.
+Thonde: Male Dwarf Wizard, Evil. Thonde has messy black hair and sharp gray eyes, and a distinctive mark on his face. He wears red robes and wields a dagger. Thonde is cursed with blindness in his left eye.
+Odgeir: Male Dwarf Fighter, Good. Odgeir has a narrow face, with black hair and amber eyes. He wears banded mail and wields a short sword and heavy crossbow. Odgeir is hunting the warlord who stole his ancestral sword.
+Tarie: Female Elf Cleric, Neutral. Tarie has messy silver hair and narrow green eyes. She wears chain mail and wields a flail. Tarie refers to herself in the third person.
+
+Rumors:
+Agents of Ritama have re-opened the Dark Prison of Alliarnolf.
+The master of the Goldsmiths Guild is the real power behind the throne.

@@ -1,0 +1,12 @@
+begin test log 87a4b59c-415b-44a2-99d7-ab78304b3bd4
+loading cache to delete...
+	cache file [85fe4c0b-ecbb-461f-be08-bfa5d0246bd4.TEST] cleared
+	cache file [3c510032-b83b-4431-9f56-f5075e9832b5.TEST] cleared
+	cache file [416f8e35-e13d-4af1-80e1-7180b77d2100.TEST] cleared
+cache cleared!
+c++ times:[8, 6, 3]
+python times:[6, 7, 7]
+ruby times:[9, 10, 4]
+javascript times:[5, 7, 3]
+java times:[6, 8, 9]
+test completed with [91%] effeciency

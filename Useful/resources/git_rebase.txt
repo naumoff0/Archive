@@ -1,0 +1,2 @@
+git rebase -i HEAD~AMOUNT
+https://github.com/MitMaro/git-interactive-rebase-tool.git

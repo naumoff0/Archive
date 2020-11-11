@@ -1,0 +1,27 @@
+Name: The Jade Cellar
+Location: In a residential quarter, southeast of the town gate. The street outside is lined with a simple iron fence.
+Description: The inn is a large two-storey timber framed building, with elf-wrought tables and chairs. Accomodations consist of several large rooms with beds and feather mattresses.
+Innkeeper: The innkeeper is a heavyset female human named Eryn. She was once a wealthy aristocrat, but was disgraced and stripped of her lands and title.
+
+Menu:
+Baked Crayfish with Coriander and Date Pie, Glass of Port (4 sp)
+Braised Boar and Leek, Glass of Cider (3 sp)
+Steamed Boar and Poached Eggs, Glass of Whiskey (4 sp)
+Braised Lamb with Sugar and Dried Pomegranate, Glass of Cider (4 sp)
+Roasted Sausage and Chestnut Bread, Tankard of Beer (11 cp)
+
+Patrons:
+Fregric: Male Halfling Wizard, Good. Fregric has an angular face, with golden hair and gray eyes. He wears modest garments and wields a quarterstaff and sling. Fregric seeks an opponent for a strange board game.
+Riado: Male Halfling Ranger, Neutral. Riado is rugged in appearance, with blonde hair and bright brown eyes. He wears chain mail and wields a warhammer. Riado is absent-minded, and always searching for a missing item.
+Eafall: Female Human Cleric, Neutral. Eafall has uneven gray hair and blue eyes. She wears chain mail and wields a hammer. Eafall seems to be seeking omens in a deck of cards.
+Dory: Male Elf Ranger, Neutral. Dory is pleasant in appearance, with cropped brown hair and soft hazel eyes. He wears scale mail and wields a flail and light crossbow. Dory is quarreling with the innkeeper about their animal companion, a gray wolf named Tilli.
+Cenfa: Male Human Fighter, Good. Cenfa has a narrow face, with braided brown hair and large gray eyes. He wears chain mail and wields a military pick and javelins. Cenfa is searching for a legendary blade named Foereaver.
+
+Rumors:
+Ghosts walk the ramparts of the Tower of Beraie the Witch during the full moon.
+An order of demonic cultists has opened a magical portal in the Toadmoor Marsh.
+Wearda the merchant deals in magical weapons, but they're all cursed.
+A new vein of mithral has been discovered in the Dela Fells.
+An elven goddess has been seen in the woods outside town.
+A star has fallen into the Maelstrom Sea.
+A stone golem has escaped from the workshop of Psiana the Archmage.

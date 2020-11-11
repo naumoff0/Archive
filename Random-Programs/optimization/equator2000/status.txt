@@ -1,0 +1,14 @@
+ORIGINAL FILE:
+----------------
+SIZE (bytes): 1412
+LINES: 45
+
+
+MOST OPTIMIZED FILE: V2
+----------------
+SIZE (bytes): 597
+LINES: 39
+
+Line reduction: 66%
+Size reduction: 75%
+STATUS: COMPLETED

@@ -1,0 +1,26 @@
+Name: The Hog
+Location: On Bowyer's Way, near the Temple of Gardens. It stands next to a consecrated monument.
+Description: The inn is a single storey stone-walled building, with a reinforced wooden door. Accomodations consist of several small rooms with wooden cots and a mezzanine with several wooden cots. The inn is widely known for its adventuring patrons.
+Innkeeper: The innkeeper is a willowy female dwarf named Thorde. She has been stealing casks of drink from another tavern.
+
+Menu:
+Boiled Pheasant and Dried Peas, Tankard of Stout (9 cp)
+Boiled Pork and Dried Carrot, Tankard of Bitter (10 cp)
+Vegetable Stew, Mug of Beer (5 cp)
+Smoked Chicken and Mushrooms, Tankard of Mead (12 cp)
+Roasted Boar and Dried Onions, Tankard of Beer (10 cp)
+Smoked Trout and Blue Cheese, Tankard of Beer (11 cp)
+Boiled Eggs and Dried Carrot, Tankard of Perry (11 cp)
+Roasted Shellfish and Dried Watercress, Tankard of Ale (11 cp)
+
+Patrons:
+Jago Baggee: Male Halfling Professional, Neutral. Jago is fair in appearance, with messy red hair and gray eyes. He wears fine clothing and a fox fur cape. Jago is a terrible liar.
+Elenlor: Male Elf Peasant, Good. Elenlor is courtly in bearing, with straight blonde hair and soft green eyes. He wears plain clothing and a gray cloak. Elenlor seeks to discover the truth of his lineage.
+Even: Female Human Professional, Neutral. Even has blonde hair and green eyes, and prominent ears. She wears modest garments and a sling of vials and potions. Even is dying and desperately seeks the secret of immortality.
+Cote: Male Elf Alchemist, Neutral. Cote has a round face, with black hair and green eyes. He wears modest garments and an amulet of luminous crystal. Cote seeks only fame and glory.
+Uainen: Female Elf Servant, Evil. Uainen is overweight, with thick black hair and hazel eyes. She wears modest garments and a bronze amulet. Uainen serves an ancient dragon named Bhharsuilu.
+
+Rumors:
+The town magistrate is actually a cruel werewolf.
+A perpetual storm rages over the Tumunzund Crags.
+The wizard Polosius's lizard is actually a polymorphed dragon.

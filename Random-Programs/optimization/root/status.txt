@@ -1,0 +1,14 @@
+ORIGINAL FILE:
+----------------
+SIZE (bytes): 1288
+LINES: 46
+
+
+MOST OPTIMIZED FILE:
+----------------
+SIZE (bytes): 26
+LINES: 1
+
+Line reduction: 46%
+Size reduction: 49.53%
+STATUS: INCOMPLTER

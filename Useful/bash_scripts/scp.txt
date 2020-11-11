@@ -1,0 +1,7 @@
+function scp(){
+    oldDir=`pwd`
+    cd
+    cd /home/ubuntu/workspace/useful/python_snippets
+    python scp.py
+    cd $oldDir
+}

@@ -1,0 +1,21 @@
++You meet a halfling thief named Herbert. He seeks adventurers to start a tavern fight as a distraction for the town guard.::npc:determine
+    -Ask him how much he is willing to pay
+        +ehh, 200 gold and maybe a roasted turnip if you do well.::reward:200g
+            -Accept
+                +Great! Come with me.::travel:tavern
+                    -Flip a table over
+                        +Three {type}s approach you.::fight-npc:3,low
+                    -Throw a plate of food
+                        +A large {type} stands up and starts walking towards you::fight-npc:1,medium
+                    -Break a window
+                        +The bartender kicks you out.::END
+            -Decline::END
+    -Report him to the town guard
+        +He moves in front of you angrily. Where do you think your goin?
+            -To report you, filthy thief
+                +He punches you in the face
+            -To go to the bathroom
+                +oh really
+            -uhh...
+                +nervous?
+    -Ignore the halfling and move on::END

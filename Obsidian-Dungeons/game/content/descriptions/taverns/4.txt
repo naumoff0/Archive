@@ -1,0 +1,25 @@
+Name: The Goblet
+Location: In a theater district, northwest of the Scepter Theater. Its neighbors include an enclosed stage and the burned-out ruins of a building.
+Description: The inn is a sprawling single storey wooden building, with a single salvaged stone wall and only a few crude tables and benches. Several battered shields hang on the walls. Accomodations consist of a few small rooms with straw mats.
+Innkeeper: The innkeeper is a short female dwarf named Hilda. She secretly leads a gang of thieves and assassins.
+
+Menu:
+Stewed Hare and Blue Cheese, Tankard of Perry (9 cp)
+Vegetable Stew, Mug of Cider (5 cp)
+Oat Porridge, Mug of Ale (4 cp)
+Roasted Duck and Blue Cheese, Tankard of Stout (10 cp)
+Oat Porridge, Mug of Cider (5 cp)
+
+Patrons:
+Erard Pethey: Male Halfling Illusionist, Good. Erard has red hair and large gray eyes, and a cropped beard. He wears topaz robes and wields a quarterstaff and dagger. Erard seeks an opponent for a strange board game.
+Agnildg Byridotr: Female Dwarf Fighter, Evil. Agnildg is beastly in appearance, with red hair and hazel eyes. She wears plate mail and wields a military fork. Agnildg is searching for the lost realm of Argelloth.
+Ariel: Female Elf Assassin, Evil. Ariel is short and willowy, with copper hair and narrow hazel eyes. She wears leather armor and wields a club and darts. Ariel seems intent on sneaking into the cellar.
+Muli: Female Dwarf Fighter, Evil. Muli has a narrow face, with messy gray hair and light amber eyes. She wears plate mail and wields a mace. Muli seeks opponents for a game of darts.
+
+Rumors:
+A caravan is expected to arrive this week, carrying elixirs to ward against lycanthropy and vampirism.
+Bizarre monsters have been encountered in the Shadow Vale.
+A horde of demons has been summoned into the Undercrypt of the Shadow Duchess.
+A colossal ooze-like demon has been summoned into the Kharamunz Spires.
+Heva was murdered by thieves in an alleyway near the Cracked Tankard.
+The boss of the Carmen Guild is a descendant of Agor the Malefic.

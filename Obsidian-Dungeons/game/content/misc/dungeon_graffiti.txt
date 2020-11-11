@@ -1,0 +1,47 @@
+"Danore fell here" in draconic script
+"Look to the right" in goblin runes
+a large X
+"Amina was here"
+"You cannot kill it with magic"
+"The Night Walker cannot be slain until the White Hare lies in blood"
+"In the Caverns of Brass, when the hound betrays the master, the Orb of Lightning shall be destroyed"
+"Kill them with ice"
+"In the reign of Compassion, when the River of Faith runs red with blood, the line of Sorcery shall be ended"
+"The Crusaders of Sholedzinb killed a demon here"
+"Wene Gysby was here"
+a crude drawing of a nymph
+"This is not a secret door"
+"The Council of the Veiled Fang looted this place"
+"The walls listen"
+"Don't sleep" in orcish runes
+"In the Desert of Dweomers, when the Crown is broken, the Order of Orbs shall rise" in dwarvish runes
+"Bend the pin to reset the trap"
+"You cannot kill it with swords"
+a basic map of the dungeon
+"Robern fell here"
+"Ran out of time"
+"Sala died here" in goblin runes
+"Death is the only exit"
+"Upon the Twilight of Glass, in the Kingdom of Axes, the Prince of Honor shall escape his chains"
+"This is not a secret door" in orcish runes
+a draconic face
+"jade, golden, gray"
+"Has anyone seen my invisible cloak?"
+"Upon the Night of Glass, in the Dominion of Purses, the Cathedral of Stone shall be destroyed"
+"They ate Minasaer"
+a monstrous face
+an evil symbol
+"black, gray, silver, ruby"
+"three, two, four, seven"
+"I'd rather be at the Bloody Dagger"
+"Gery's Shields killed eight ogres here"
+"Run away!"
+"Abandon all hope" in orcish runes
+"Praise Vepaz"
+"The red dragon is not a dragon"
+"The Blade of Knowledge is reforged" in goblin runes
+"Don't sleep"
+"It is awake"
+"Stay left"
+"Has anyone seen my invisible cloak?" in orcish runes
+"Praise the Wyrm Baron" in dwarvish runes

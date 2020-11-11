@@ -1,0 +1,100 @@
+Pharpyl Tower. This large keep has reinforced stone walls and a massive central fireplace. It appears deserted, but is inhabited by a peddler named Eatwid selling his wares.
+Caer Quennerdhir. This small keep is built around a great maple tree. It appears deserted, but is inhabited by a vampire named Anathana. The keep is brightly lit by magical candles and chandeliers.
+Umral's Deep. Most of this square keep is delved into the side of a mountainous crag. The lord of the keep is a dwarf wizard named Umral, and it is defended by grim dwarven axemen. A secret door in the cellar opens into tunnels and mineshafts.
+Lagdog Stronghold. This large tower sits upon an island in the middle of a lake. The lord of the tower is a goblin named Gradbag, who guards an ancient artifact. The tower is brightly lit by magical candles and chandeliers.
+Freri's Deep. This large walled castle has thick stone walls, and a shell keep with defensive battlements. The lord of the castle is an assertive dwarf named Zaghal, and it is defended by noble dwarven warriors.
+Duskfen Keep. This tower has wooden walls and defensive battlements. The lord of the tower is a troll cleric named Lukil, and it is defended by fierce goblin warriors.
+Wyemoor Stronghold. This large walled castle has battered stone walls with defensive battlements, and a small keep. It is in disrepair, and totally deserted. A deep chasm has been torn open through the castle courtyards.
+Gini's Hold. This tower sits at the top of a hill. The lord of the tower is a slender dwarf named Gini. The tower collects a modest toll from passing travellers.
+Thrasanz's Deep. Most of this small walled castle is delved into the side of a mountain. It appears deserted, but is inhabited by a smuggler named Glidi Sketison hiding his wares.
+Olmard Keep. This fortress complex sits upon the banks of a river, spanned by a drawbridge. The lord of the castle is an old wizard named Olmard, who is actually a malevolent devil.
+Peley Keep. This fortress complex has black stone walls, and a keep with round turrets. It is in disrepair, and totally deserted. The castle courtyards are filled with blast craters and rubble.
+Gungni's Deep. Most of this shell keep is delved into the side of a large hill. It appears deserted, but is inhabited by a poor miner named Bari and his family.
+Kilmah's Deep. Most of this concentric castle is delved into the side of a mountainous crag. It appears deserted, but is inhabited by a poor miner named Faxi and his family.
+Kari's Delve. Most of this round tower is delved into the side of a craggy outcrop. The lord of the tower is a dwarf named Kari, and it is defended by dwarven warriors and cunning stonework traps.
+Blackmoor Stronghold. This walled castle has wooden walls with defensive battlements. It appears deserted, but is inhabited by a vampire named Thilda.
+Sketi's Deep. Most of this round tower is underground, with only a concealed door marking its location. It appears deserted, but is inhabited by a vampire named Vidisi. A secret door in the cellar opens into a network of tunnels.
+Thidridotr's Delve. This round tower has buttressed stone walls and an acidic moat. It appears deserted, but is inhabited by a wandering bard named Beine Afnigson. The road which leads to the tower is lined with large stones.
+Brayford Keep. This small tower sits upon an eroded outcrop, accessible by a single road. It is in disrepair, and totally deserted. The tower once belonged to a wizard, and one window sometimes opens into strange lands.
+Mundi's Deep. This round keep sits in the fork of a large river. The lord of the keep is an old dwarf named Mundi. A fine collection of tapestries and artwork hangs upon the walls.
+Okinnson's Deep. This round keep has strong stone walls with defensive battlements. It appears deserted, but is inhabited by orc thugs led by a boss named Lugdush.
+Barad Abran. This keep has buttressed stone walls with a corbelled battlement. It is in disrepair, and totally deserted. The keep was once home to a school of wizards, and strange noises are sometimes heard from the dungeon.
+Caer Mane. This walled castle has elegantly carved stone walls, and a grand keep with large windows and balconies. It appears deserted, but is inhabited by a lich named Ardadas.
+Gamli's Delve. Most of this large walled castle is delved into the side of a mountain. The lord of the castle is a dwarf named Kamil, and it is defended by dwarven warriors and iron dragon golems.
+Behrtio Keep. This walled castle has reinforced stone walls with defensive ballistae, and a square keep. The lord of the castle is a wizard named Behrtio, and it is inhabited by his assistants and apprentices. The castle is surrounded by the ruins of a small town.
+Suni's Delve. This small tower has reinforced stone walls, engraved with runes of strength. It appears deserted, but is inhabited by kobold thieves led by a boss named Nusadi. A secret door in the cellar opens into a network of tunnels.
+Barad Celi. This large keep has white stone walls with a corbelled battlement. The lord of the keep is a willowy elf named Belebor, and it is defended by heroic elven warriors. The keep is brightly lit by magical candles and chandeliers.
+Arkund's Deep. This keep sits in the fork of a large river. It is in disrepair, and totally deserted. The keep is overgrown with thorny vines.
+Brimbadotr's Deep. This fortress complex sits upon an outcrop of rock, accessible by a single road. The lord of the castle is a dwarf wizard named Ildig Brimbadotr, who is cursed to never leave. The castle collects a modest toll from passing travellers.
+Barad Atiel. This large keep sits at the center of a winding hedge labyrinth. It appears deserted, but is inhabited by a wandering troubadour named Tipa. The keep is surrounded by flowering trees and gardens.
+Headale Keep. This fortress complex has black stone walls with a corbelled battlement, and a grand keep. It is in disrepair, and totally deserted. The road which leads to the castle gates is deeply rutted from traffic.
+Barad Tuga. This square tower has reinforced wooden walls and a strong iron door. The lord of the tower is an elf named Tuga, who is dying with a terrible secret. A small stable behind the tower has room for a few horses.
+Khakurd's Hold. Most of this small keep is underground, with only a small stone building marking its location. The lord of the keep is a dwarf named Lili, and it is defended by noble dwarven warriors.
+Mery Stronghold. This fortress complex sits upon the banks of a river, spanned by a drawbridge. It appears deserted, but is inhabited by a lich named Suatrisi. The castle is surrounded by the ruins of a small town.
+Axifson's Delve. This concentric castle sits upon a weathered outcrop, accessible by a single road. It appears deserted, but is inhabited by a vampire named Odalfrild. A secret tunnel beneath the keep leads into a large dungeon.
+Beine's Deep. This concentric castle sits at the top of a rocky hill. The lord of the castle is a thin dwarf named Beine, and it is inhabited by a large entourage of servants.
+Coaford Castle. This walled castle has rough-hewn stone walls, and a small keep with large windows and balconies. It appears deserted, but is inhabited by ogre thugs led by a boss named Goiaranda. A secret tunnel beneath the keep leads into a large dungeon.
+Ardwund Tower. This large tower has strong stone walls and a defensive moat. The lord of the tower is an overweight knight named Ardwund, and it is inhabited by a small entourage of servants.
+Stystead Stronghold. This fortress complex has battered stone walls, and a small keep with round turrets. The lord of the castle is a mage named Munda.
+Stomas Stronghold. This large walled castle sits upon the banks of a river, spanned by a drawbridge. The lord of the castle is a proud sorcerer named Stomas, and it is inhabited by an order of wizards and sorcerers.
+Sigtreson's Hold. This concentric castle has been hewn from a mountainous crag of volcanic rock. It appears deserted, but is inhabited by a smuggler named Turi hiding his wares.
+Belgri's Delve. This fortress complex has thick stone walls, and a square keep with defensive battlements. The lord of the castle is an old dwarf named Belgri. The castle collects a modest toll from passing travellers.
+Ampwood Keep. This large tower has reinforced wooden walls with wooden hoarding. It is in disrepair, and totally deserted. A secret door in the cellar opens into a network of tunnels.
+Draburh Tower. This round keep sits upon the banks of a river, spanned by a drawbridge. The lord of the keep is a sorcerer named Gery Bere, and it is inhabited by an order of wizards and sorcerers. A large stable near the keep has room for horses and carriages.
+Minas Vola. This tower sits upon an island in the middle of a lake. The lord of the tower is an elf wizard named Vola, and it is defended by elven mage-knights.
+Woford Keep. This grand keep has black stone walls and defensive earthworks. The lord of the keep is a tall cleric named Sige.
+Chymoor Castle. This round tower has strong stone walls and a defensive moat. The lord of the tower is a woman named Cuthburg, and it is inhabited by her family and servants. A secret door in the cellar opens into a network of tunnels.
+Caer Gruida. This large keep sits upon the banks of a river, spanned by a drawbridge. It appears deserted, but is inhabited by a harlot named Finde.
+Caer Lorfinerdh. This keep sits at the center of a ring of ancient stone monoliths. It appears deserted, but is inhabited by a dragon named Asmazuh. The keep is brightly lit by magical candles and chandeliers.
+Hjoti's Deep. Most of this walled castle is underground, with only a large tower marking its location. It appears deserted, but is inhabited by kobold thieves led by a boss named Samsuuha.
+Etim's Delve. This walled castle has reinforced stone walls with small towers. The lord of the castle is a dwarf sorcerer named Soti Vardison, and it is defended by noble dwarven warriors.
+Kenne Keep. This small walled castle has rough-hewn stone walls, and a large keep with a strong iron door. It appears deserted, but is inhabited by a smuggler named Ealdhelm hiding his wares.
+Minas Arwelel. This small keep has elegantly carved stone walls and defensive arcane wards. It appears deserted, but is inhabited by a vampire named Amathala.
+Barad Dirinas. This large walled castle has elegantly carved stone walls with defensive arcane wards. The lord of the castle is a young elf named Dirinas, and it is defended by expert elven archers.
+Luga Tower. This large walled castle has wooden walls, and a small keep with defensive battlements. It appears deserted, but is inhabited by a vampire named Eleuvatha. A concealed tunnel beneath the keep leads into a large dungeon.
+Moore Keep. This small tower has white stone walls with defensive battlements. The lord of the tower is a warrior named Suse Moore, who guards an ancient artifact. A small collection of weapons hangs upon the walls.
+Minas Oror. This small keep has walls of living hardwood and round turrets. The lord of the keep is an elf mage named Oror, and it is defended by deadly elven archers.
+Iklal's Delve. This keep has thick stone walls with a strong iron door. The lord of the keep is a dwarf paladin named Thakilm, and it is defended by fierce dwarven axemen.
+Mynge Keep. This concentric castle sits upon an island in the middle of a large lake. The lord of the castle is a man named Wisym Mynge, who guards an ancient artifact.
+Brythe Tower. This walled castle sits in the fork of a great river. It appears deserted, but is inhabited by kobold thugs led by a boss named Balug.
+Rotfen Tower. This square tower has rough-hewn stone walls and a single round turret. It appears deserted, but is inhabited by brigands led by a murderer named Ammius.
+Hildga's Delve. This small tower sits upon a volcanic outcrop, accessible by a single road. The lord of the tower is a dwarf named Hildga, who is actually a malevolent devil. The tower collects a modest toll from passing travellers.
+Bali's Delve. This concentric castle has rough-hewn stone walls and a strong gatehouse, and a grand keep. It appears deserted, but is inhabited by a vampire named Vinido.
+Reda Stronghold. This small keep has strong stone walls and a strong iron door. The lord of the keep is a priest named Reda, who is actually a blood-thirsty vampire. A fine collection of tapestries and artwork hangs upon the walls.
+Scofalls Keep. This walled castle sits upon a craggy outcrop, accessible by a single road. It is in disrepair, and totally deserted.
+Thaucey Tower. This large tower sits upon a weathered outcrop, accessible by a single road. The lord of the tower is a man named Roguy, who is cursed to never leave. The tower is brightly lit by magical candles and chandeliers.
+Ingminster Keep. This large walled castle sits upon the banks of a river, spanned by a drawbridge. The lord of the castle is a wizard named Beornne. The castle was once home to a college of wizards, and water from the well sometimes causes strange magical effects.
+Turi's Delve. Most of this square keep is delved into the side of a mountainous crag. It appears deserted, but is inhabited by a lich named Thanitha.
+Thordison's Delve. This walled castle sits in the fork of a great river. It appears deserted, but is inhabited by a vampire named Gilda.
+Theamoor Castle. This round keep has reinforced stone walls and an acidic moat. The lord of the keep is a young woman named Aeleth.
+Chaiton Keep. This large walled castle sits at the top of a hill. The lord of the castle is a young priest named Cily, and it is defended by an order of paladins.
+Nainan's Delve. This round tower has reinforced stone walls with defensive battlements. The lord of the tower is a dwarf named Thalli Hakreson, and it is defended by fierce dwarven axemen. A good store of mead and ale is kept in the cellar.
+Minas Annaegon. This small keep sits at the center of a ring of ancient stone monoliths. It appears deserted, but is inhabited by troll thugs led by a boss named Himunda.
+Erderts Tower. This large walled castle has black stone walls and a strong gatehouse, and a shell keep. It appears deserted, but is inhabited by a smuggler named Narder Pycey hiding his wares.
+Rida's Hold. Most of this concentric castle is underground, with only a tower marking its location. It appears deserted, but is inhabited by kobold thieves led by a boss named Gamilki. The castle has several forges, and its courtyards are filled with smoke.
+Horison's Delve. This walled castle has battered stone walls, and a square keep with defensive battlements. It is in disrepair, and totally deserted.
+Atzellson's Deep. Most of this walled castle is delved into the side of a mountainous crag. It appears deserted, but is inhabited by a small company of mercenaries seeking work.
+Odvachdotr's Delve. This small walled castle has buttressed stone walls with square towers. The lord of the castle is a dwarf named Gerdga Odvachdotr, and it is defended by fierce dwarven axemen.
+Minas Bodhma. This square tower has fused stone walls with wooden hoarding. The lord of the tower is an elf named Bodhma.
+Minas Alarmin. This fortress complex has white stone walls with defensive arcane wards. The lord of the castle is an overweight elf named Mirilye, and it is defended by expert elven archers.
+Elys Tower. This grand keep sits upon the banks of a river, spanned by a drawbridge. It appears deserted, but is inhabited by brigands led by a boss named Aruavic. The keep is overgrown with thorny vines.
+Arkur's Delve. Most of this shell keep is delved into the side of a barren hill. The lord of the keep is a dwarf rogue named Hrandi, and it is defended by dwarven warriors and cunning stonework traps.
+Scaleah Keep. This tower sits upon the banks of a stream, spanned by a wooden bridge. The lord of the tower is a mage named Vyncis. A small collection of artwork hangs upon the walls.
+Reder Stronghold. This square keep sits upon the banks of a river, spanned by a drawbridge. The lord of the keep is a willowy man named Reder, who is actually a greedy dragon.
+Barne Tower. This square tower sits in the fork of a river. The lord of the tower is a tall knight named Erith, who is actually a greedy dragon. The tower once belonged to a wizard, and a scrying mirror hangs in the highest chamber.
+Gawic Tower. This walled castle sits upon an island in the middle of a large lake. The lord of the castle is a rogue named Eambald, and the keep is inhabited by his family and servants.
+Barad Gimlorfind. This fortress complex sits in the fork of a great river. The lord of the castle is a shrewd elf named Gimlorfind. The road which leads to the castle gates is deeply rutted from traffic.
+Grysell Tower. This concentric castle has thick wooden walls with large towers, and a square keep. The lord of the castle is a tall wizard named Geoffry Grysell, who is actually a blood-thirsty vampire.
+Babrycg Keep. This round keep has thick wooden walls with a corbelled battlement. It appears deserted, but is inhabited by a vampire named Suerima. The keep was once home to a school of wizards, and its doors are locked and unlocked by command word.
+Kuti's Delve. Most of this square tower is underground, with only a concealed door marking its location. It appears deserted, but is inhabited by a smuggler named Ardgad hiding his wares. A good store of mead and ale is kept in the cellar.
+Orleil's Delve. This fortress complex has thick stone walls, engraved with runes of strength. The lord of the castle is a dwarf wizard named Thrinarv, and it is defended by noble dwarven warriors. The castle is surrounded by fathomless wells and mineshafts.
+Haarison's Deep. This tower has been hewn from an outcrop of volcanic rock. It appears deserted, but is inhabited by a smuggler named Kurda hiding his wares.
+Hammer Keep. This walled castle has reinforced wooden walls and earthen ramparts, and a grand keep. It appears deserted, but is inhabited by a vampire named Hunilia.
+Frinain's Hold. Most of this small tower is delved into the side of a craggy outcrop. It appears deserted, but is inhabited by a vampire named Gisuintha.
+Caer Mahtanarf. This square tower sits at the center of a ring of ancient stone monoliths. It appears deserted, but is inhabited by a dragon named Suna.
+Siegra's Deep. This small walled castle has strong stone walls with small towers. The lord of the castle is a short dwarf named Siegra, and it is defended by dwarven warriors and cunning stonework traps. The castle has several forges, and its courtyards are filled with smoke.
+Lefalls Castle. This small tower has crystalline walls and defensive battlements. The lord of the tower is a warrior named Wulfa, and it is defended by a small company of soldiers.
+Kello's Deep. Most of this concentric castle is delved into the side of a mountain. It appears deserted, but is inhabited by a smuggler named Thari hiding his wares.
+Wywick Keep. This small tower sits upon the banks of a stream, spanned by a wooden bridge. The lord of the tower is a tall man named Munder Nelley. A secret door in the cellar opens into a network of tunnels.
+Cahyrst Tower. This small walled castle sits at the top of a large hill. It is in disrepair, and totally deserted. The castle is overgrown with twisted trees and thorny vines.
+Barad Golure. This concentric castle has battered stone walls with round towers, and a shell keep. It appears deserted, but is inhabited by brigands led by a murderer named Wingauta. The castle was once home to a college of wizards, and water from the well sometimes causes strange magical effects.

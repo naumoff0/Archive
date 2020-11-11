@@ -1,0 +1,34 @@
+db.execute("game/data.db", """
+    CREATE TABLE items(
+        name text NOT NULL UNIQUE,
+        description text NOT NULL,
+        type text NOT NULL,
+        subtype text NOT NULL,
+        action text NOT NULL,
+        value integer NOT NULL,
+        durability integer NOT NULL
+        );
+    CREATE TABLE players(
+        name text NOT NULL UNIQUE,
+        type text NOT NULL,
+        class text NOT NULL
+        );
+    CREATE TABLE types(
+        name text NOT NULL UNIQUE,
+        equipment text NOT NULL,
+        HP integer NOT NULL,
+        STR integer NOT NULL,
+        AGL integer NOT NULL,
+        KNW integer NOT NULL,
+        CHR integer NOT NULL,
+        WLTH integer NOT NULL
+        );
+    CREATE TABLE classes(
+        name text NOT NULL UNIQUE,
+        HP integer NOT NULL,
+        STR integer NOT NULL,
+        AGL integer NOT NULL,
+        KNW integer NOT NULL,
+        CHR integer NOT NULL,
+        WLTH integer NOT NULL
+        );""")

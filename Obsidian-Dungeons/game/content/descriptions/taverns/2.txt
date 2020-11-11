@@ -1,0 +1,30 @@
+Name: The Crystal Tavern
+Location: In a theater ward known for its bizarre performers. The street outside is lined with colorful signs and banners.
+Description: The inn is a sprawling single storey wooden building, with a poorly-thatched roof and roughly hewn wooden tables and benches. Accomodations consist of a few small rooms with straw mats and straw mats near the hearth. The inn is unusually noisy, with a company of dwarven miners singing drinking songs.
+Innkeeper: The innkeeper is a foolhardy male dwarf named Aznal.
+
+Menu:
+Buckwheat Biscuits and Curd Cheese, Mug of Mead (2 cp)
+Oat Porridge, Mug of Ale (3 cp)
+Barley Porridge, Mug of Bitter (2 cp)
+Vegetable Stew, Mug of Beer (4 cp)
+Stewed Sausage and Millet Biscuits, Tankard of Ale (10 cp)
+Boiled Sausage and Parsnip, Tankard of Beer (10 cp)
+Stewed Turnip, Mug of Cider (3 cp)
+
+Patrons:
+Nessa: Female Elf Fighter, Evil. Nessa is stout, with red hair and gray eyes. She wears splint mail and wields a military pick and light crossbow. Nessa is talking quietly with a female elf aristocrat.
+Glimul: Female Dwarf Fighter, Evil. Glimul has red hair and blue eyes, and a beaked nose. She wears banded mail and wields a warhammer. Glimul is a skilled dancer.
+Taras: Male Halfling Druid, Neutral. Taras has silver hair and brown eyes, and a thick moustache. He wears leather armor and wields a club. Taras has a terrible sense of direction.
+Aererth: Male Human Cleric, Evil. Aererth is rough in appearance, with thin blonde hair and blue eyes. He wears plate mail and wields a flail. Aererth seeks wealth and power at any cost.
+Bardi: Male Dwarf Druid, Neutral. Bardi has curly copper hair and dark gray eyes. He wears leather armor and wields a scimitar and darts. Bardi is quiet, and says as little as possible.
+
+Rumors:
+Saeburg has been spending strange coins, each marked with a dark symbol.
+There's a magical portal in the highest tower of the Citadel of Pazu.
+An ancient weapon of the gods lies somewhere within the Dread Dungeon of the Shadow Knight.
+The barmaid at the Red Cup tried to poison the town magistrate.
+Dwarven miners have stumbled upon the secret temple of an ancient cult in the Beda Fells.
+A vampire still lurks in the crypts beneath the ruins of Watun Tower.
+The chancellor of arcana is dying of an incurable affliction.
+A perpetual storm rages over the Yamif Waste.

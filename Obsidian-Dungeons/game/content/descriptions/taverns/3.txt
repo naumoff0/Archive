@@ -1,0 +1,31 @@
+Name: The Flask
+Location: In a temple district known for its celestial processions. The street outside is lined with carved stone columns.
+Description: The inn is a single storey stone-walled building, with a heather-thatched roof and dwarf-wrought iron tables and chairs. Accomodations consist of wooden cots near the hearth.
+Innkeeper: The innkeeper is an old female dwarf named Gimli. She knows the prophecy of the Dragon of the Nalchu Heath.
+
+Menu:
+Stewed Shrimp and Almond Bread, Tankard of Stout (10 cp)
+Smoked Partridge and Blue Cheese, Tankard of Beer (11 cp)
+Boiled Eggs and Blue Cheese, Tankard of Mead (12 cp)
+Boiled Eggs and Curd Cheese, Tankard of Beer (12 cp)
+Roasted Pork and Onions, Tankard of Stout (12 cp)
+Wheat Porridge, Mug of Bitter (3 cp)
+Salted Shrimp and Beetroot, Tankard of Beer (13 cp)
+Millet Porridge, Mug of Beer (4 cp)
+
+Patrons:
+Banan: Male Dwarf Alchemist, Good. Banan has auburn hair and hazel eyes, and a distinctive scar on his arm. He wears tailored clothing and numerous rings. Banan avoids eye contact.
+Artas: Female Elf Soldier, Good. Artas has long white hair and green eyes. She wears scale mail and wields a spear and javelins. Artas is a skilled singer.
+Oldundr: Male Dwarf Craftsman, Evil. Oldundr has blonde hair and narrow amber eyes. He wears plain clothing and carries an elder staff. Oldundr seeks a company of adventurers to hunt down and capture the cunning rogue Coenburg.
+Uding: Male Halfling Craftsman, Neutral. Uding has a narrow face, with white hair and sharp brown eyes. He wears well-made clothing and a red cloak. Uding is searching for his lost brother.
+Othert: Male Dwarf Entertainer, Neutral. Othert has gray hair and amber eyes, and a sharp nose. He wears tailored clothing and a copper amulet. Othert seeks a company of adventurers to discover the fate of a caravan of exotic goods lost in the Troll Claws.
+
+Rumors:
+A trained falcon has been stealing keys.
+The dragon Nina has destroyed the elven village of Redy.
+The town of Arnirion secretly serves the Vampire Princess.
+The reeve is conspiring to overthrow the king.
+The boss of the Beggars Guild has been murdered by a red-robed assassin.
+Cilia saw a mastiff with fifty heads in the Snakefen Swamp.
+A pack of flesh-eating ghouls lurks in the ruins of Paleah Keep.
+A horde of demons has been summoned into the Catacombs of the Wyrm Princess.

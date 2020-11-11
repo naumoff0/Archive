@@ -1,0 +1,2 @@
+from computeryshite import computerFailure
+computerFailure()

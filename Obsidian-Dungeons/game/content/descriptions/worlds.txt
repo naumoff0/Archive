@@ -1,0 +1,150 @@
+Hilonde. an elemental realm of emerald water. filled with sunken ships and the sound of crashing waves. The realm is sparsely populated by kraken.
+Nosirith. a primal realm of verdant forests. vast lowlands. and sapphire seas. The realm is primarily populated by dwarves. with a few gnomes. The denizens of Nosirith live in vibrant merchant cities.
+Harliene. a primal realm of green hills and trackless wastes. beneath a golden sky. The realm is mostly populated by humans. though with large numbers of other races.
+Harlonde. a ruined plane of haunted valleys and oceans of acid. beneath a sky of eternal darkness. The plane is overrun by powerful eldritch things and hordes of aberrant creatures.
+Ellonel. a barren plane of jagged mountains. shadowed canyons. and oceans of dust. The plane is sparsely populated by blue dragons. and giants.
+Meningond. a medieval realm of storm-wracked oceans and forested islands. illuminated by a white sun. The realm is primarily populated by humans. with smaller numbers of other races.
+Hombarest. a primal world of rugged hills and azure seas. beneath a golden sky. The world is primarily populated by humans. with smaller numbers of other races. The denizens of Hombarest are renowned as warrior heroes.
+Vinande. a medieval world of rolling hills. burning wastes. and storm-wracked oceans. The world is primarily populated by dwarves. with smaller numbers of other races. The denizens of Vinande are at war with invading demons.
+Aloth. an abyssal realm of shattered peaks and ashen deserts. beneath a sky of eternal darkness. The realm is primarily populated by efreet. and ghouls.
+Nosireg. an elemental realm of blazing peaks. ashen deserts. and oceans of slag. The realm is the domain of Eglil. a demigod of vengeance. and is populated by salamanders. The denizens of Nosireg are at war with invading devils.
+Formene. a chthonic realm of iron hills and rough-hewn canyons. The realm is the domain of Tatore. a deity of earthquakes. and is populated by earth elementals. It is also the location of the College of Chthonic Arcana. a bastion of artificers and alchemists.
+Olilien. an aerial realm of starlit skies. filled with wispy clouds and the scent of cedar. The realm is the domain of Direduil. a demigod of winds. and is populated by griffons. The denizens of Olilien are at war with invading demons.
+Indeglad. an elemental world of deserts of shattered obsidian and seas of slag. beneath a crimson sky. The world is sparsely populated by fire dwarves. It is also the location of the College of Cinders. a bastion of conjurers and summoners.
+Negrione. an ancient plane of awakened woodlands. glittering lakes. and seas of glass. The plane is populated by living spells and dweomers.
+Tharlone. a medieval realm of silver mountains and verdant jungles. illuminated by a white sun. The realm is primarily populated by humans. with smaller numbers of other races. The humans of Tharlone are infamous as mercenary explorers.
+Ardarir. a brutal world of silver peaks. emerald moors. and vast seas. The world is primarily populated by purple worms.
+Ellor. an ancient realm of towering peaks. trackless wastes. and sapphire seas. The realm is primarily populated by dwarves. with smaller numbers of other races.
+Gondorwin. a barren realm of shadowed canyons and seas of sand. beneath a blinding sky. The realm is primarily populated by elves. with smaller numbers of other races. The denizens of Gondorwin are ruled by a nobility of djinn.
+Amel. a hallowed realm of luminous spires. sapphire lakes. and oceans of silver. The realm is the domain of Althah. a demigod of freedom. and is populated by metallic dragons. It is also the location of the Cloister of Angels. a bastion of clerics and paladins.
+Karnevrion. an aquatic world of sapphire water. filled with grinding maelstroms and the sound of horns. The world is primarily populated by merfolk. and tritons. It is also the location of the Academy of Aenes. a bastion of artificers and alchemists.
+Vibauda. a monstrous plane of dark woodlands and verdant lowlands. beneath a golden sky. The plane is primarily populated by owlbears. and hydras.
+Faladhell. an elemental realm of smoldering hills. chasms filled with smoke. and deserts of shattered obsidian. The realm is the domain of Ener. a demi-goddess of destruction. and is populated by red dragons.
+Ithinion. a chthonic plane of endless rock and subterranean seas. The plane is primarily populated by earth elementals. and trolls.
+Bacha. a ruined world of iron hills and poisoned lakes. beneath a blackened sky. The world is the domain of Priha. a deity of war. and is populated by demons. It is also the location of the Keep of Fiery Ruin. a bastion of insane cultists and warlocks.
+Camue. a hallowed realm of white peaks. verdant woodlands. and seas of silver. The realm is primarily populated by archons. It is also the location of the Shrine of the Empyrean Sky. a bastion of clerics and paladins.
+Formithlon. a desolate realm of jagged mountains and oceans of sand. beneath a fiery sky. The realm is primarily populated by humans. with smaller numbers of other races.
+Ombargon. a fiery world of ashen deserts and oceans of lava. beneath clouds of cinders and ash. The world is primarily populated by fire hydras. and red dragons. The denizens of Ombargon are at war with invading demons.
+Nandolad. an ancient plane of endless corridors and rooms filled with a metallic odor. The plane is populated by living clockwork suits of armor.
+Erim. an abyssal plane of poisoned lakes. ashen battlefields. and seas of lava. The plane is primarily populated by hags.
+Eren. an elemental realm of golden skies and wispy clouds. illuminated by twin blue suns. The realm is the domain of Elror. a demi-goddess of lightning. and is populated by winged elves. The denizens of Eren are at war with invading demons.
+Nyamithlien. an ancient world of vast oceans and desert islands. beneath a sapphire sky. The world is primarily populated by humans. with smaller numbers of other races.
+Borida. a monstrous plane of azure seas and desert islands. illuminated by a white sun. The plane is primarily populated by goblins. with a few other monstrous races.
+Thombarien. an aerial plane of sapphire skies and cloud islands. The plane is primarily populated by air elementals. and wraiths. The denizens of Thombarien are at war with invading demons.
+Nandone. a broken plane of ashen woodlands and seas of acid. beneath a sky of eternal darkness. The plane is utterly lifeless and uninhabited.
+Forlone. a primal plane of verdant canyons and azure seas. illuminated by a crimson sun. The plane is primarily populated by elves. with smaller numbers of other races. The denizens of Forlone are beset by manticores.
+Dorwine. a fey world of emerald forests. clear lakes. and azure oceans. The world is primarily populated by treants. with a few pixies.
+Napha. a corrupted realm of tortured hills and poisoned seas. illuminated by three dark suns. The realm is primarily populated by efreet. and manticores.
+Abyn. an infernal plane of rotting mires and seas of lava. beneath a sky of eternal darkness. The plane is primarily populated by devils. and efreet.
+Iliel. a ruined plane of ashen wastes and oceans of acid. beneath a sky of eternal darkness. The plane is overrun by vampires and other undead creatures.
+Vallade. an elemental plane of iron hills and barren wastes. The plane is the domain of Egnon. a deity of petrification. and is populated by earth elementals.
+Donargul. a barren realm of weathered hills. shadowed valleys. and trackless wastes. The realm is primarily populated by dwarves. with a few humans. The denizens of Donargul are ruled by a cruel nobility of efreet.
+Ossis. an elemental realm of endless ice and bottomless chasms. The realm is the domain of Galorfin. a demigod of winter. and is populated by ice elementals. It is also the location of the Glacial Pantheon. a bastion of elemental clerics and paladins.
+Lumithlor. a medieval realm of wooded hills and azure oceans. illuminated by a crimson sun. The realm is primarily populated by dwarves. with smaller numbers of other races.
+Litha. a prison realm of storm-wracked peaks. trackless deserts. and vast seas. The realm is the prison of an ancient eldritch thing.
+Ricusa. a brutal plane of storm-wracked mountains and verdant canyons. illuminated by a white sun. The plane is primarily populated by ogres. with smaller numbers of other monstrous races.
+Achiel. a heavenly world of misty glens. sapphire lakes. and oceans of silver. The world is the domain of Hiemua. a demi-goddess of healing. and is populated by metallic dragons.
+Aron. a fallen world of howling valleys and rotting fens. illuminated by three crimson suns. The world is primarily populated by devils. and hell hounds.
+Brisirion. a barren plane of shadowed valleys and seas of dust. beneath a blinding sky. The plane is mostly populated by humans. though with large numbers of other races. The denizens of Brisirion live in scattered nomadic tribes.
+Dorwine. an ancient world of misty canyons. emerald lowlands. and sapphire seas. The world is mostly populated by orcs. though with large numbers of other monstrous races.
+Peniyah. a hallowed plane of deep valleys. golden fields. and azure oceans. The plane is the domain of Sielat. a demi-goddess of protection. and is populated by archons. It is also the location of Inyar. a planar trading city filled with magical gates.
+Hargalind. A fanciful world of silver spires. rough-hewn valleys. and sapphire lakes. The world is primarily populated by trolls. with a few treants.
+Eirionest. A chthonic realm of broken hills and desolate wastes. The realm is the domain of Mothaldaer. a demigod of the forge. and is populated by blue dragons. It is also the location of the Lost Prison of Jade. a legendary dungeon of gargoyles.
+Lindorthell. An elemental realm of endless rock and abandoned mineshafts. The realm is the domain of Eneler. a deity of caverns. and is populated by troglodytes.
+Enenon. An ancient realm of wooded hills and cratered lowlands. illuminated by a white sun. The realm is mostly populated by dwarves. though with large numbers of other races. The dwarves of Enenon are ruled by a nobility of metallic dragons.
+Dorthithlind. A fanciful world of dark forests and storm-wracked oceans. beneath a starlit sky. The world is primarily populated by unicorns. with smaller numbers of other fey races.
+Dorithithl. A medieval plane of rough-hewn valleys. black fens. and storm-wracked oceans. The plane is primarily populated by hobgoblins. with smaller numbers of other monstrous races.
+Falerien. A primal world of sapphire seas and volcanic islands. beneath an azure sky. The world is mostly populated by humans. though with large numbers of other races. The denizens of Falerien are ruled by a cruel nobility of demons.
+Elessead. An elemental plane of volcanic mountains. deserts of shattered obsidian. and seas of flame. The plane is the domain of Glebrosaer. a demigod of fire. and is populated by fire hydras. It is also the location of the Lost Halls of Ashes. a legendary dungeon of red dragons.
+Kusha. A heavenly realm of wooded hills and golden woodlands. beneath a silver sky. The realm is primarily populated by archons.
+Mary. An abyssal plane of volcanic mountains and rough-hewn valleys. illuminated by two dark suns. The plane is primarily populated by demons. The denizens of Mary are at war with invading manticores.
+Arnithis. A marvelous realm of volcanic mountains. vast wastes. and towering monoliths of stone. The realm is inhabited by a single powerful lich. who dwells in a floating castle in the sky.
+Gulasea. An ancient plane of verdant woodlands. decaying mires. and sapphire oceans. The plane is primarily populated by dwarves. with a few gnomes. The denizens of Gulasea are at war with a kingdom of giants.
+Hilade. A broken world of ashen battlefields and seas of acid. beneath a sky of eternal darkness. The world is overrun by armies of giants and ogres.
+Vano. A sealed world of barrier peaks and fathomless oceans. inhabited by ghosts of the past. The world is the prison of an ancient eldritch thing. bound by ancient spells and dweomers.
+Gelade. A primal realm of wooded hills. burning deserts. and storm-wracked seas. The realm is primarily populated by humans. with smaller numbers of other races. The humans of Gelade are renowned as warrior heroes.
+Eithlul. A medieval realm of sunlit forests and cratered moors. illuminated by a white sun. The realm is primarily populated by humans. with a few halflings. The humans of Eithlul live in vibrant merchant cities.
+Suatrax. A monstrous plane of towering peaks. haunted mires. and vast seas. The plane is sparsely populated by orcs.
+Vapar. A corrupted realm of cratered battlefields and seas of blood. filled with the howling spirits of the damned. The realm is primarily populated by devils. and undead shadows.
+Thelione. A primal world of verdant jungles and azure oceans. illuminated by a blue sun. The world is primarily populated by trolls. with smaller numbers of other monstrous races.
+Pryale. A walled world of labyrinthine canyons and desolate wastes. beneath a starlit sky. The world is the prison of a defiant titan.
+Eithlorthon. A primal realm of rugged hills. emerald jungles. and vast lowlands. The realm is primarily populated by elves. with a few halflings. The denizens of Eithlorthon are beset by murderous shadows.
+Nosea. An elemental realm of endless rock and bottomless chasms. The realm is primarily populated by basilisks. and gargoyles. The denizens of Nosea are at war with invading dwarves.
+Zago. An infernal plane of tangled woodlands and fields of blades. filled with clouds of foul fumes. The plane is the domain of Hego. a demi-goddess of darkness. and is populated by devils.
+Bielel. A hallowed plane of wooded hills. verdant woodlands. and seas of light. The plane is primarily populated by nymphs.
+Londe. A dark realm of winding iron labyrinths filled with an oily odor. The realm is populated by living spells and dweomers.
+Nargothras. A medieval plane of volcanic peaks and sapphire seas. illuminated by a blue sun. The plane is primarily populated by humans. with smaller numbers of other races. The denizens of Nargothras live in the decaying ruins of a fallen empire.
+Forlonde. A medieval realm of rough-hewn mountains. barren wastes. and vast oceans. The realm is mostly populated by humans. though with large numbers of other races.
+Bery. A walled world of labyrinthine canyons and desolate deserts. beneath a sapphire sky. The world is the tomb of a powerful vampire.
+Othrond. A medieval realm of jagged peaks. stinking fens. and vast seas. The realm is mostly populated by humans. though with large numbers of other races. The denizens of Othrond are beset by hordes of undead.
+Aridar. A monstrous world of verdant glens and sapphire seas. beneath a silver sky. The world is primarily populated by orcs. and vampires.
+Edhegland. A primordial world of silver mountains. rocky wastes. and oceans of flame. The world is the domain of Belegol. a demi-goddess of creation. and is populated by gargoyles.
+Peniyah. A glorious realm of amber fields and glittering oceans. illuminated by seven golden suns. The realm is the domain of Mesha. a demi-goddess of honor. and is populated by nymphs.
+Loriande. A broken plane of shattered peaks and burning wastes. beneath a crimson sky. The plane is overrun by wraiths and other undead creatures.
+Egrond. An ancient plane of endless stairs filled with floating motes of light. The plane is populated by living clockwork suits of armor.
+Rielah. A heavenly world of white mountains. deep valleys. and sapphire lakes. The world is primarily populated by angels.
+Hellinde. A metallic realm of golden mountains and rough-hewn canyons. beneath clouds of mercury. The realm is primarily populated by dark elves. and earth elementals. It is also the location of the Shrine of Iron. a bastion of elemental clerics and paladins.
+Falione. A medieval realm of eroded hills. desolate deserts. and storm-wracked oceans. The realm is primarily populated by humans. with a few dwarves. The humans of Falione are renowned as skilled artisans.
+Egrond. A medieval plane of sapphire seas and forested islands. beneath a silver sky. The plane is mostly populated by humans. though with large numbers of other races. The denizens of Egrond live in scattered fortress-cities.
+Rielat. A heavenly plane of luminous mountains and clear lakes. illuminated by seven golden suns. The plane is primarily populated by archons. and metallic dragons.
+Karnosea. A desolate realm of weathered hills and shadowed valleys. beneath a blinding sky. The realm is utterly lifeless and uninhabited.
+Nionargul. An ancient world of endless corridors and rooms filled with the scent of ozone. The world is populated by living clockwork suits of armor.
+Eimlar. An ancient world of silver mountains and dark woodlands. illuminated by a white sun. The world is primarily populated by humans. with a few dwarves.
+Esseand. An elemental plane of azure water. filled with scattered bubbles of air and floating motes of light. The plane is the domain of Celeborn. a demigod of oceans. and is populated by giant sharks.
+Rodagoia. A savage realm of jagged mountains. misty valleys. and stinking swamps. The realm is mostly populated by goblins. though with large numbers of other monstrous races.
+Alpham. An abyssal plane of poisoned lakes and seas of acid. illuminated by two crimson suns. The plane is primarily populated by efreet. and trolls. The denizens of Alpham are at war with invading fire giants.
+Malinda. A brutal plane of storm-wracked mountains. dark woodlands. and ashen wastes. The plane is primarily populated by demonic dinosaurs.
+Hema. A corrupted world of sinking fens and sapphire seas. beneath a fiery sky. The world is the domain of Sthuli. a demigod of deceit. and is populated by devils. It is also the location of the Stronghold of Shattered Souls. a bastion of evil clerics and warlocks.
+Valonde. An ancient world of endless corridors and rooms filled with deadly traps. The world is populated by dragons and other powerful magical creatures.
+Adrinad. An ancient plane of broken hills. azure lakes. and sapphire seas. The plane is primarily populated by dwarves. with a few halflings. The denizens of Adrinad are beset by chromatic dragons.
+Lisa. A ruined plane of iron hills and ashen deserts. beneath a sky of eternal darkness. The plane is the domain of Mamma. a deity of rage. and is populated by demons.
+Enedhest. An elemental plane of smoldering hills and oceans of flame. beneath a fiery sky. The plane is primarily populated by efreet.
+Evraland. An artificial plane of winding iron labyrinths filled with the sound of machinery. The plane is populated by dragons and other powerful magical creatures.
+Andat. A glorious world of luminous spires and verdant woodlands. illuminated by three golden suns. The world is primarily populated by metallic dragons. and nymphs.
+Eriavar. A primordial realm of crystalline spires and icy oceans. beneath a sky of lightning. The realm is primarily populated by demons. and dragons. It is also the location of the Abbey of Midasith. a bastion of elemental clerics and paladins.
+Oliriond. An ancient world of endless corridors and rooms engraved with evil symbols. The world is populated by living clockwork suits of armor.
+Ladhellond. A ruined plane of fiery woodlands. burning deserts. and storm-wracked seas. The plane is utterly lifeless and uninhabited.
+Vala. A prison plane of desolate wastes and fathomless seas. illuminated by a white sun. The plane is the prison of an ancient eldritch thing.
+Brasirion. A primal plane of green hills. emerald jungles. and vast lowlands. The plane is primarily populated by humans. with smaller numbers of other races.
+Helonde. A medieval world of storm-wracked peaks and misty glens. illuminated by a white sun. The world is primarily populated by dwarves. with smaller numbers of other races. The denizens of Helonde are ruled by a cruel nobility of demons.
+Faline. An ancient realm of rough-hewn glens. ashen deserts. and azure oceans. The realm is primarily populated by dwarves. with a few gnomes.
+Karnegrin. A marvelous world of volcanic mountains. trackless deserts. and seas of glass. The world is primarily populated by humans. with a few elves. The humans of Karnegrin are renowned as skilled alchemists.
+Meraie. A prison plane of barrier peaks. quiet woodlands. and fathomless oceans. The plane is the prison of a defiant arch-devil.
+Brothithlond. An artificial world of endless corridors and rooms engraved with evil symbols. The world is inhabited by a single powerful lich. who dwells in an adamant tower guarded by bound elementals.
+Menorion. A medieval plane of broken hills and dark forests. illuminated by a golden sun. The plane is primarily populated by humans. with smaller numbers of other races. The denizens of Menorion are beset by packs of ettins.
+Evralquad. A primal world of silver peaks. emerald jungles. and storm-wracked seas. The world is mostly populated by humans. though with large numbers of other races. The humans of Evralquad are ruled by a nobility of metallic dragons.
+Ashtum. A sealed realm of labyrinthine canyons and fathomless seas. where all hope and emotion fades. The realm is the prison of a powerful sorcerer. bound by welded chains.
+Dolonde. A supernatural plane of shadowed chasms. broken fields. and seas of glass. The plane is mostly populated by humans. though with large numbers of other races. The denizens of Dolonde are ruled by a powerful lich named Garima.
+Hithlonde. A primal realm of green hills. emerald woodlands. and azure seas. The realm is primarily populated by trolls. with smaller numbers of other monstrous races.
+Valonde. A medieval realm of rough-hewn glens. sapphire lakes. and storm-wracked seas. The realm is primarily populated by dwarves. with smaller numbers of other races.
+Menargond. An ancient plane of green hills and sunlit jungles. illuminated by a golden sun. The plane is primarily populated by humans. with smaller numbers of other races. The denizens of Menargond are beset by chromatic dragons.
+Hombarion. An elemental plane of azure water and coral reefs. filled with the sound of crashing waves. The plane is primarily populated by sea dragons. and tritons.
+Baltha. A hallowed world of misty valleys. clear lakes. and seas of light. The world is primarily populated by nymphs.
+Forline. A medieval realm of rugged hills and glittering lakes. illuminated by a white sun. The realm is primarily populated by dwarves. with a few gnomes. The dwarves of Forline are beset by swarms of wyverns.
+Baddya. A ruined realm of shadowed canyons and ashen wastes. beneath a sky of eternal darkness. The realm is primarily populated by demons. The denizens of Baddya are at war with invading devils.
+Enoth. An ancient plane of green hills and shadowed forests. beneath a silver sky. The plane is mostly populated by dwarves. though with large numbers of other races.
+Helliene. A primal realm of rolling hills. azure lakes. and vast oceans. The realm is primarily populated by humans. with smaller numbers of other races. The denizens of Helliene are at war with an empire of hags.
+Gavriel. A celestial world of silver mountains and azure oceans. beneath an iridescent sky. The world is primarily populated by angels. and nymphs.
+Eirion. An ancient realm of shadowed canyons. vast deserts. and sapphire seas. The realm is primarily populated by hobgoblins. with a few other monstrous races.
+Dorasea. An aerial plane of starlit skies and scattered earthmotes. The plane is primarily populated by griffons.
+Focal. A walled plane of storm-wracked mountains and fathomless oceans. beneath an azure sky. The plane is the prison of a forgotten goddess of evil. bound by chains of magical jade.
+Chano. An infernal world of broken hills and fiery lakes. beneath a sky of eternal darkness. The world is primarily populated by efreet. It is also the location of the Stronghold of Nightmares. a bastion of evil sorcerers and wizards.
+Thellinde. An elemental realm of broken hills and desolate deserts. The realm is sparsely populated by dark elves. The denizens of Thellinde are at war with invading dwarves.
+Siriene. A desolate realm of weathered hills. shadowed valleys. and oceans of sand. The realm is sparsely populated by blue dragons. and lizardfolk.
+Eliothron. A primal realm of rolling hills. verdant woodlands. and storm-wracked oceans. The realm is primarily populated by dwarves. with smaller numbers of other races.
+Sarach. A celestial world of golden hills. deep glens. and seas of silver. The world is primarily populated by metallic dragons.
+Enenon. An ancient world of towering peaks. rough-hewn canyons. and burning deserts. The world is mostly populated by humans. though with large numbers of other races. The denizens of Enenon live in nomadic tribes.
+Mara. A corrupted plane of shattered mountains and oceans of blood. filled with the howling spirits of the damned. The plane is the domain of Myala. a demigod of torture. and is populated by hell hounds. It is also the location of the Cloister of the Fallen. a bastion of evil sorcerers and wizards.
+Enelen. A medieval realm of rolling hills and vast oceans. beneath a starlit sky. The realm is mostly populated by humans. though with large numbers of other races. The humans of Enelen are ruled by a nobility of djinn.
+Lorione. A primal plane of rough-hewn canyons. deep lakes. and storm-wracked oceans. The plane is mostly populated by humans. though with large numbers of other races.
+Aron. A celestial plane of white mountains and sapphire lakes. beneath a radiant sky. The plane is the domain of Amel. a demi-goddess of dreams. and is populated by archons. The denizens of Aron are at war with invading demons.
+Hombarion. An aerial world of sapphire skies. filled with perpetual storms and the sound of whispering. The world is sparsely populated by winged elves.
+Eimland. A medieval realm of green hills. misty glens. and vast fields. The realm is mostly populated by goblins. though with large numbers of other monstrous races.
+Honingond. An elemental plane of emerald water and coral reefs. filled with the sound of horns. The plane is primarily populated by devilfish. and giant sharks.
+Nandolind. A primal plane of volcanic peaks and emerald jungles. illuminated by a golden sun. The plane is mostly populated by humans. though with large numbers of other races. The humans of Nandolind are beset by swarms of wyverns.
+Tirithithl. A primal world of white peaks. decaying swamps. and azure oceans. The world is mostly populated by humans. though with large numbers of other races. The humans of Tirithithl are infamous as merciless warriors.
+Locha. A ruined world of shattered mountains. rusting battlefields. and oceans of mercury. The world is primarily populated by demons. It is also the location of the Stronghold of Broken Worlds. a bastion of insane sorcerers and wizards.
+Eilielel. A primordial plane of silver mountains. bottomless rifts. and icy seas. The plane is the domain of Curanwe. a deity of destruction. and is populated by hydras.
+Valione. An elemental plane of azure skies and scattered earthmotes. filled with the scent of smoke. The plane is primarily populated by wraiths. and wyverns. The denizens of Valione are at war with invading demons.
+Donosea. A fallen plane of shattered mountains and rotting forests. beneath a fiery sky. The plane is utterly lifeless and uninhabited.
+Kochbin. A celestial realm of misty valleys and oceans of light. illuminated by seven white suns. The realm is primarily populated by angels. The denizens of Kochbin are at war with invading devils.

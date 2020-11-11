@@ -1,0 +1,81 @@
+/* 
+	Directions on how to add a player:
+	
+	There are 5 values you need to separate by spaces.
+	The values are these in order
+	
+*	Name
+*	Class Type
+*	Strength
+*	Endurance
+*	Id  
+
+In order to initialize a player, you must add one to the last line of the config file.
+Let's say you wanted to add a player named Joe
+
+Joe would have a 
+Name of Joe
+Class Type of Knight 
+Strength of 4
+Endurance of 3 
+and an Id of 6 
+
+Joe would be declared like this:
+
+Joe Knight 4 3 6
+
+Notice how these are all separated by spaces.
+
+RULES FOR DECLARING PLAYERS:
+
+Names can not have spaces although they can have these things in between:
+_
+-
+.
+etc.
+
+Example of acceptable names: 
+
+Joe-The-Example
+Joe_is-a_player
+
+Examples of unacceptable names:
+
+Joe the Example
+Joe-is-a player
+
+NOTE: The same thing goes for class names to.
+
+WARNING: Do not forget to add spaces in between. Seriously.
+
+To determine Id, simply count how many players there are and add one to that number.
+
+To make your player fight, start the program and input your player's id when it asks.
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+HOW TO ADD AN ENEMY BELOW:
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+
+	Directions on how to add an enemy
+	
+	Adding an enemy is close to the same thing as adding a player except with different values
+	
+*	Enemy Values Are:
+*	Name 
+*	HP //Health Points
+*	AC //Armour Class 
+*	DT //Dice Type 
+*	Id 
+	
+	For example enemys look down below.
+	
+	Same rules for names as there was for players.
+	
+	Make sure that the Dice Type is not less than 2 or greater than 20.
+	
+	WARNING: Include 0 before AC as it won't read it as a decimal if you don't
+	
+	Eg: 0.5 = 50% etc.
+*/

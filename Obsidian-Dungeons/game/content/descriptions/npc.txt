@@ -1,0 +1,200 @@
+Care. Male Elf Illusionist. Good. Care has copper hair and narrow green eyes, and a sharp nose. He wears worn clothing and wields a quarterstaff and dagger. Care is confident and suspicious.
+Udlal. Female Dwarf Illusionist. Evil. Udlal has a narrow face, with messy blonde hair and green eyes. She wears expensive clothing and wields a quarterstaff. Udlal has an animal companion, a silver cat named Thrinarv.
+Lasym. Male Human Fighter. Neutral. Lasym has matted auburn hair and light gray eyes, and a beaked nose. He wears plate mail and wields a short sword. Lasym has an animal companion, a badger named Greyny.
+Monda. Female Halfling Ranger. Good. Monda has a long face, with tangled black hair and soft green eyes. She wears scale mail and wields a short sword. Monda seeks to discover why she cannot remember anything from yesterday.
+Urin. Male Dwarf Soldier. Evil. Urin has a round face, with thin copper hair and dark gray eyes. He wears chain mail and wields a flail and dagger. Urin has an animal companion, a hunting dog named Hrithe.
+Tery. Male Human Paladin. Good. Tery is rugged in appearance, with brown hair and large green eyes. He wears chain mail and wields a military pick and shield. Tery has an animal companion, a bay warhorse named Kater.
+Thrimil. Male Dwarf Priest. Evil. Thrimil is stout, with thin gray hair and sharp blue eyes. He wears modest garments and a silver amulet.
+Witha. Female Human Thief. Neutral. Witha has white hair and bright brown eyes. She wears leather armor and wields a dagger. Witha has sable ferret named Gyles.
+Ferdo. Male Halfling Druid. Neutral. Ferdo has curly golden hair and blue eyes. He wears leather armor and wields a spear. Ferdo is hunting the cultists who murdered his family.
+Kilmul. Male Dwarf Mercenary. Evil. Kilmul is short, with long red hair and light gray eyes. He wears leather armor and wields a bastard sword and shield. Kilmul has an animal companion, a gray rabbit named Kadu.
+Dwari. Female Dwarf Fighter. Evil. Dwari has long auburn hair and light brown eyes. She wears splint mail and wields a mace and shield. Dwari seeks to become a knight of the realm.
+Eldatiel. Female Elf Soldier. Neutral. Eldatiel is rough in appearance, with gray hair and amber eyes. She wears studded leather and wields a military fork.
+Diamay Gerop. Female Halfling Assassin. Neutral. Diamay has brown hair and amber eyes, and numerous distinctive tattoos. She wears leather armor and wields a club. Diamay seeks revenge against the thieves guild which left her to hang.
+Ennell. Female Human Paladin. Good. Ennell has silver hair and dark amber eyes, and a flat nose. She wears chain mail and wields a glaive-guisarme. Ennell has an animal companion, a white warhorse named Walda.
+Orir. Male Dwarf Soldier. Neutral. Orir is tall and thin, with straight auburn hair and gray eyes. He wears chain mail and wields a flail and shield. Orir has an animal companion, a black rat named Kamul.
+Munde. Male Human Druid. Neutral. Munde is fey in appearance, with thin black hair and light amber eyes. He wears leather armor and wields a club and dagger. Munde is hunting the warlord who murdered his family.
+Macha. Female Elf Craftsman. Neutral. Macha is rugged in appearance, with black hair and bright amber eyes. She wears plain clothing and a wide-brimmed hat. Macha has an animal companion, a hunting dog named Celungiml.
+Sane. Female Halfling Servant. Evil. Sane has thick brown hair and brown eyes, and wears glasses with electrum rims. She wears modest garments and a white cloak. Sane has an animal companion, a hunting dog named Hildo.
+Aethet. Female Human Aristocrat. Good. Aethet has white hair and soft brown eyes. She wears fine raiment and an amulet of luminous crystal. Aethet is hunting the warlord who stole her ancestral sword.
+Thildga. Female Dwarf Artist. Neutral. Thildga has uneven red hair and dark green eyes, and a round nose. She wears expensive clothing and silk gloves. Thildga has an animal companion, a hawk named Jotta.
+Essanth Diggle. Female Halfling Priest. Good. Essanth has brown hair and gray eyes, and a sharp nose. She wears fine clothing and a silver holy symbol. Essanth seeks to free herself from an ancient curse.
+Dwari. Male Dwarf Fighter. Evil. Dwari has long black hair and light hazel eyes. He wears chain mail and wields a long sword and shield. Dwari is bloodthirsty and crude.
+Harlas. Male Human Fighter. Evil. Harlas is repulsive in appearance, with red hair and amber eyes. He wears banded mail and wields a short sword. Harlas speaks with a loud voice.
+Hely. Female Human Ranger. Neutral. Hely has tangled auburn hair and sharp amber eyes. She wears chain mail and wields a military pick. Hely is gullible and greedy.
+Linan. Male Dwarf Aristocrat. Neutral. Linan is pleasant in appearance, with black hair and amber eyes. He wears fine raiment and several pouches hang from his belt. Linan is hunting the sorcerer who murdered his family.
+Kadu. Female Dwarf Entertainer. Neutral. Kadu is rugged in appearance, with messy blonde hair and blue eyes. She wears expensive clothing and an amulet of luminous crystal. Kadu is unbelievably lucky.
+Dainarv. Male Dwarf Cleric. Evil. Dainarv is rough in appearance, with uneven brown hair and dark amber eyes. He wears plate mail and wields a quarterstaff. Dainarv has an animal companion, a hunting dog named Zuri.
+Duri. Male Dwarf Aristocrat. Evil. Duri is common in appearance, with straight brown hair and hazel eyes. He wears fine raiment and a sling of vials and potions. Duri is sharp-tongued and bloodthirsty.
+Mimay. Female Halfling Fighter. Neutral. Mimay has copper hair and light green eyes. She wears chain mail and wields a mace and dagger.
+Hone. Female Human Fighter. Good. Hone has auburn hair and brown eyes, and prominent ears. She wears banded mail and wields a short sword. Hone has an animal companion, a ginger dog named Ryelly.
+Suse. Female Human Fighter. Neutral. Suse has thin blonde hair and dark gray eyes, and small ears. She wears plate mail and wields a spear.
+Amura. Female Halfling Fighter. Good. Amura is short and willowy, with gray hair and sharp hazel eyes. She wears chain mail and wields a mace.
+Imloth. Female Elf Assassin. Good. Imloth has a narrow face, with braided red hair and brown eyes. She wears leather armor and wields a poisoned dagger and darts.
+Arin. Male Dwarf Scofflaw. Evil. Arin has a long face, with gray hair and green eyes. He wears sturdy clothing and a wooden holy symbol. Arin is envious and deceitful.
+Ferdo. Male Halfling Druid. Neutral. Ferdo is tall, with matted brown hair and sharp amber eyes. He wears leather armor and wields a club. Ferdo is wrongly sought by the Knight of Eriand for theft.
+Phely. Female Human Illusionist. Good. Phely has a round face, with messy gray hair and bright gray eyes. She wears worn clothing and wields a quarterstaff and dagger. Phely is righteous and witty.
+Hida. Female Dwarf Cleric. Good. Hida is heavyset, with curly gray hair and dark hazel eyes. She wears splint mail and wields a hammer. Hida dislikes having people behind her.
+Jorgga Hornidotr. Female Dwarf Paladin. Good. Jorgga has red hair and large hazel eyes. She wears banded mail and wields a bardiche. Jorgga is thrifty and intuitive.
+Symond Garay. Male Halfling Assassin. Neutral. Symond is fey in appearance, with short black hair and brown eyes. He wears leather armor and wields a short sword and darts. Symond has an animal companion, a black scorpion named Ancin.
+Niserie. Female Elf Fighter. Evil. Niserie has brown hair and large amber eyes, and an unusual tattoo on her arm. She wears plate mail and wields a military fork. Niserie is greedy and unfeeling.
+Wisym. Male Human Cleric. Evil. Wisym has tangled black hair and amber eyes, and a distinctive scar on his leg. He wears chain mail and wields a flail.
+Infrisg. Female Dwarf Fighter. Good. Infrisg has copper hair and bright green eyes, and a sharp nose. She wears chain mail and wields a spear and light crossbow.
+Ellyn Burney. Female Halfling Entertainer. Neutral. Ellyn has matted gray hair and brown eyes. She wears fine clothing and a dragonscale cloak. Ellyn is practical and dishonest.
+Alter. Male Human Druid. Neutral. Alter has thick copper hair and amber eyes, and large ears. He wears leather armor and wields a scimitar and dagger. Alter avoids eye contact.
+Salva Groper. Female Halfling Artist. Neutral. Salva has braided golden hair and green eyes. She wears modest garments and carries a fine stiletto. Salva is a practiced dart thrower.
+Jaga Turgidotr. Female Dwarf Illusionist. Neutral. Jaga is exceptionally beautiful, with copper hair and light green eyes. She wears copper robes and wields a dagger. Jaga has a terrible sense of direction.
+Burhuia. Female Human Ranger. Evil. Burhuia is short, with messy golden hair and blue eyes. She wears leather armor and wields a long sword. Burhuia has a terrible sense of direction.
+Blica. Female Elf Peasant. Neutral. Blica has an angular face, with thin copper hair and bright blue eyes. She wears worn clothing and a green cloak. Blica blames dragons for every misfortune.
+Wine. Male Human Priest. Neutral. Wine has matted brown hair and soft gray eyes. He wears modest garments and a sling of vials and potions. Wine has an animal companion, a red fox named Ermulf.
+Glatur. Female Dwarf Wizard. Good. Glatur has golden hair and large green eyes, and a thin nose. She wears modest garments and wields a quarterstaff. Glatur is gentle and well-spoken.
+Orin. Male Dwarf Ranger. Good. Orin has braided silver hair and amber eyes. He wears chain mail and wields a military pick and short bow. Orin seeks to help the poor and unfortunate.
+Arelyen. Female Elf Soldier. Good. Arelyen has red hair and hazel eyes, and a thin nose. She wears chain mail and wields a flail and heavy crossbow. Arelyen has an animal companion, a gray rabbit named Findanye.
+Ancis. Male Human Alchemist. Evil. Ancis is common in appearance, with matted blonde hair and brown eyes. He wears fine clothing and a feathered hat. Ancis has an animal companion, a red fox named Arryn.
+Cily. Female Human Thief. Neutral. Cily is exceptionally beautiful, with silver hair and bright gray eyes. She wears leather armor and wields a short sword and dagger. Cily is quiet, and says as little as possible.
+Wyna. Female Human Craftsman. Evil. Wyna has blonde hair and bright green eyes. She wears modest garments and a wide-brimmed hat. Wyna is dishonest and hateful.
+Idril. Female Elf Aristocrat. Neutral. Idril has golden hair and dark blue eyes, and a round nose. She wears fine raiment and a copper amulet. Idril is wrongly sought by the Warlord of Formarest for smuggling.
+Tavi. Male Elf Assassin. Neutral. Tavi has auburn hair and blue eyes. He wears leather armor and wields a poisoned club. Tavi is searching for his lost sister.
+Sigi Haddrison. Male Dwarf Necromancer. Evil. Sigi has braided silver hair and blue eyes. He wears modest garments and wields a short sword and dagger. Sigi is hunting the doppelganger which destroyed his homeland.
+Finy. Male Halfling Entertainer. Neutral. Finy has golden hair and brown eyes. He wears modest garments and a gold amulet. Finy is easily distracted by small animals.
+Adanth. Female Halfling Artist. Good. Adanth has braided silver hair and gray eyes. She wears tailored clothing and several pouches hang from her belt. Adanth holds a grudge against necromancers.
+Waru. Female Human Priest. Evil. Waru has a narrow face, with copper hair and soft blue eyes. She wears modest garments and several pouches hang from her belt. Waru is fascinated by mythology and the gods.
+Mone. Male Elf Fighter. Evil. Mone is rugged in appearance, with golden hair and brown eyes. He wears banded mail and wields a bastard sword and shield. Mone has an animal companion, a brown bear named Serime.
+Arrad. Male Dwarf Druid. Neutral. Arrad is tall and stout, with curly copper hair and brown eyes. He wears leather armor and wields a hammer and darts. Arrad is moody and foolhardy.
+Bali. Female Dwarf Cleric. Good. Bali has a round face, with black hair and dark gray eyes. She wears plate mail and wields a flail. Bali suffers a mild allergy to silver.
+Lyne Jeney. Female Human Peasant. Neutral. Lyne is rugged in appearance, with short gray hair and bright blue eyes. She wears plain clothing and a gray cloak. Lyne is quiet and clever.
+Geri. Male Elf Fighter. Evil. Geri is fey in appearance, with uneven golden hair and dark blue eyes. He wears chain mail and wields a ranseur. Geri is haunted by the memories of a past life.
+Wine. Male Human Cleric. Evil. Wine has a narrow face, with straight red hair and sharp hazel eyes. He wears splint mail and wields a hammer.
+Raga Hemmidotr. Female Dwarf Paladin. Good. Raga is stout, with copper hair and amber eyes. She wears splint mail and wields a battle axe and shield. Raga has an animal companion, a black warhorse named Andrik.
+Ryany. Male Human Illusionist. Neutral. Ryany is thin, with white hair and blue eyes. He wears expensive clothing and wields a quarterstaff and dagger. Ryany is quiet, and says as little as possible.
+Aynyeued. Female Human Necromancer. Evil. Aynyeued is tall, with black hair and amber eyes. She wears modest garments and wields a dagger and sling.
+Geni. Male Elf Priest. Neutral. Geni has a square face, with silver hair and soft gray eyes. He wears well-made clothing and carries a fine stiletto.
+Arurg. Female Human Merchant. Good. Arurg has auburn hair and green eyes, and a distinctive scar on her leg. She wears travel-stained clothing and a wooden holy symbol.
+Nerdiser. Female Elf Scholar. Evil. Nerdiser has cropped white hair and soft green eyes, and a magical tattoo on her face. She wears modest garments and silk gloves.
+Geoffrey. Male Human Fighter. Good. Geoffrey has red hair and soft brown eyes, and pointed ears. He wears banded mail and wields a battle axe and short bow. Geoffrey is hunting the demon who murdered his family.
+Elemmas. Male Elf Ranger. Good. Elemmas is fair in appearance, with straight white hair and amber eyes. He wears studded leather and wields a warhammer and heavy crossbow. Elemmas has black wolf named Daco.
+Beatry. Female Human Craftsman. Neutral. Beatry has a narrow face, with silver hair and hazel eyes. She wears well-made clothing and carries a long knife. Beatry has an animal companion, a sable ferret named Wyne.
+Bori. Male Dwarf Fighter. Evil. Bori is pleasant in appearance, with braided white hair and large blue eyes. He wears plate mail and wields a military pick and shield. Bori is unbelievably lucky.
+Angron. Male Elf Servant. Evil. Angron has thin white hair and hazel eyes. He wears travel-stained clothing and carries a willow staff. Angron is a pack-rat, and carries a satchel of random junk.
+Luburg. Female Human Thief. Good. Luburg has white hair and light green eyes, and small ears. She wears leather armor and wields a short sword and dagger. Luburg is righteous and covetous.
+Maerta. Female Dwarf Fighter. Evil. Maerta has black hair and gray eyes, and a flat nose. She wears chain mail and wields a flail and shield. Maerta has an animal companion, a black bear named Hilda.
+Redo. Male Halfling Artist. Neutral. Redo has braided white hair and bright hazel eyes, and a curly moustache. He wears tailored clothing and carries a fine stiletto. Redo believes that he is the rightful heir to the throne of Hilade.
+Ladrinde. Female Elf Scofflaw. Neutral. Ladrinde has a long face, with auburn hair and green eyes. She wears worn clothing and carries a birch staff. Ladrinde is impish and brutal.
+Anund. Male Dwarf Merchant. Good. Anund has golden hair and large gray eyes, and a flat nose. He wears simple clothing and carries a long knife. Anund suffers a paralyzing fear of open water.
+Manard Mugwich. Male Halfling Paladin. Good. Manard has golden hair and brown eyes, and pointed ears. He wears chain mail and wields a bastard sword and shield. Manard has an animal companion, a white warhorse named Mine.
+Brytha. Female Human Entertainer. Evil. Brytha is short and thin, with straight brown hair and amber eyes. She wears tailored clothing and silk gloves. Brytha is a pack-rat, and carries a satchel of random junk.
+Wallda. Male Human Craftsman. Neutral. Wallda has straight red hair and bright gray eyes, and a messy beard. He wears modest garments and a wide-brimmed hat.
+Ziri. Female Dwarf Druid. Neutral. Ziri has copper hair and soft brown eyes, and a magical tattoo on her face. She wears leather armor and wields a scimitar.
+Mirode. Female Elf Mercenary. Neutral. Mirode has silver hair and soft amber eyes. She wears studded leather and wields a fauchard-fork. Mirode seeks to discover where she came from, and who her real family is.
+Joane. Female Human Wizard. Neutral. Joane is tall, with messy golden hair and soft brown eyes. She wears green robes and wields a dagger and sling. Joane is lively and talkative.
+Mara. Female Halfling Servant. Neutral. Mara has an angular face, with gray hair and large brown eyes. She wears travel-stained clothing and carries an elm staff. Mara has an animal companion, a ginger ferret named Kalac.
+Malvy. Female Halfling Craftsman. Neutral. Malvy has a square face, with copper hair and hazel eyes. She wears well-made clothing and an iron amulet. Malvy seeks to save her family from financial ruin.
+Masym. Male Human Wizard. Evil. Masym is repulsive in appearance, with auburn hair and blue eyes. He wears sapphire robes and wields a quarterstaff and dagger.
+Thilda. Female Dwarf Cleric. Evil. Thilda is fey in appearance, with cropped brown hair and gray eyes. She wears plate mail and wields a flail. Thilda holds a grudge against necromancers.
+Bonda. Female Elf Scholar. Good. Bonda has a long face, with silver hair and narrow amber eyes. She wears modest garments and numerous rings.
+Finda. Female Elf Necromancer. Evil. Finda has braided brown hair and sharp hazel eyes, and small ears. She wears fine clothing and wields a long sword and dagger.
+Marey. Female Halfling Entertainer. Good. Marey has curly copper hair and amber eyes, and a beaked nose. She wears modest garments and a dragonscale cloak. Marey is philosophical and amoral.
+Khari. Male Dwarf Merchant. Neutral. Khari has white hair and hazel eyes, and a flat nose. He wears modest garments and several pouches hang from his belt. Khari seeks to save his family from financial ruin.
+Dinan. Female Dwarf Fighter. Neutral. Dinan has a long face, with cropped white hair and large amber eyes. She wears plate mail and wields a spear and light crossbow. Dinan has an animal companion, a black wolf named Enid.
+Elel. Female Elf Thief. Good. Elel is youthful in appearance, with silver hair and blue eyes. She wears leather armor and wields a long sword and dagger. Elel has black cat named Delgna.
+Jessy Buck. Female Halfling Mercenary. Good. Jessy is exceptionally beautiful, with gray hair and brown eyes. She wears leather armor and wields a bastard sword and light crossbow. Jessy speaks with a shrill voice.
+Ilding Galboff. Male Halfling Paladin. Good. Ilding is tall, with blonde hair and brown eyes. He wears chain mail and wields a fauchard-fork. Ilding has an animal companion, a black warhorse named Lavy.
+Mona. Female Elf Craftsman. Good. Mona has blonde hair and light gray eyes, and prominent ears. She wears simple clothing and a wooden holy symbol. Mona has an animal companion, a red fox named Lanne.
+Hildo. Male Halfling Craftsman. Evil. Hildo has a square face, with uneven brown hair and narrow amber eyes. He wears sturdy clothing and several small tools hang from his belt.
+Igamh. Female Elf Soldier. Neutral. Igamh has a round face, with blonde hair and bright hazel eyes. She wears leather armor and wields a fauchard-fork. Igamh is extravagant and absent-minded.
+Idririen. Female Elf Scholar. Good. Idririen has silver hair and hazel eyes, and small ears. She wears expensive clothing and a dragonscale cloak. Idririen has an animal companion, a copper firedrake named Vercha.
+Risca. Female Halfling Assassin. Good. Risca has cropped white hair and light green eyes, and large ears. She wears leather armor and wields a long sword and darts. Risca has an animal companion, a black scorpion named Alard.
+Adan. Male Dwarf Peasant. Evil. Adan is beastly in appearance, with black hair and blue eyes. He wears modest garments and several pouches hang from his belt. Adan is abusive and secretive.
+Ether. Male Halfling Soldier. Neutral. Ether has a narrow face, with messy blonde hair and sharp green eyes. He wears leather armor and wields a military pick and shield. Ether is cursed with hallucinations.
+Khali. Male Dwarf Assassin. Good. Khali is stout, with white hair and blue eyes. He wears leather armor and wields a poisoned short sword and dagger. Khali is searching for his lost brother.
+Hysta. Female Halfling Professional. Good. Hysta has a narrow face, with gray hair and bright green eyes. She wears well-made clothing and a silver amulet. Hysta is romantic and inquisitive.
+Thorga. Female Dwarf Fighter. Evil. Thorga has a round face, with brown hair and soft blue eyes. She wears chain mail and wields a two-handed sword.
+Alodel. Female Elf Fighter. Good. Alodel has blonde hair and blue eyes, and a flat nose. She wears banded mail and wields a bastard sword. Alodel seeks to destroy the race of ogres.
+Bori. Male Dwarf Druid. Neutral. Bori is common in appearance, with matted red hair and hazel eyes. He wears leather armor and wields a scimitar. Bori dislikes having people behind him.
+Snaga. Female Dwarf Fighter. Good. Snaga has a square face, with golden hair and gray eyes. She wears splint mail and wields a bastard sword and shield. Snaga has an animal companion, a green firedrake named Hilda.
+Thainarv. Male Dwarf Scofflaw. Good. Thainarv has a narrow face, with cropped red hair and green eyes. He wears simple clothing and a wide-brimmed hat.
+Curma. Male Elf Fighter. Evil. Curma has brown hair and blue eyes. He wears chain mail and wields a two-handed sword. Curma seeks to steal the crown of the kingdom.
+Ennalbh. Female Elf Cleric. Good. Ennalbh has silver hair and brown eyes, and wears glasses with bronze rims. She wears chain mail and wields a quarterstaff. Ennalbh is idealistic and honorable.
+Wine. Male Human Scholar. Good. Wine has golden hair and green eyes, and pointed ears. He wears well-made clothing and numerous rings. Wine has an animal companion, a hawk named Kathel.
+Hildo. Male Halfling Soldier. Good. Hildo has a round face, with white hair and gray eyes. He wears chain mail and wields a two-handed sword. Hildo has an animal companion, a red firedrake named Gyles.
+Bodia. Female Elf Alchemist. Good. Bodia has an angular face, with curly silver hair and light amber eyes. She wears modest garments and a lynx fur cape. Bodia has an animal companion, a hunting dog named Vole.
+Warder. Male Halfling Scholar. Good. Warder has auburn hair and light green eyes, and prominent ears. He wears modest garments and numerous rings. Warder has an animal companion, a red fox named Brewis.
+Rancis. Male Human Assassin. Neutral. Rancis has gray hair and green eyes. He wears leather armor and wields a poisoned dagger. Rancis has an animal companion, a raven named Ealdred.
+Nelalwe. Female Elf Merchant. Good. Nelalwe is tall and heavyset, with copper hair and gray eyes. She wears simple clothing and a wooden holy symbol. Nelalwe has an animal companion, a white rabbit named Galionerdh.
+Hore. Male Dwarf Artist. Evil. Hore has golden hair and hazel eyes, and a thin nose. He wears modest garments and carries a fine stiletto. Hore serves an ancient dragon named Sisinma.
+Grancis. Male Human Paladin. Good. Grancis has a long face, with braided copper hair and brown eyes. He wears chain mail and wields a spear and shield. Grancis is valiant and practical.
+Bera. Female Halfling Paladin. Good. Bera has silver hair and narrow green eyes, and a beaked nose. She wears banded mail and wields a ranseur. Bera is searching for her lost sister.
+Wynne. Female Human Peasant. Evil. Wynne has a long face, with matted golden hair and brown eyes. She wears worn clothing and several pouches hang from her belt. Wynne seeks to free herself from an ancient curse.
+Thrinan. Male Dwarf Artist. Evil. Thrinan is short and stout, with thin gray hair and blue eyes. He wears expensive clothing and several pouches hang from his belt. Thrinan has a terrible sense of direction.
+Huga. Female Dwarf Mercenary. Evil. Huga has short brown hair and blue eyes. She wears leather armor and wields a bardiche.
+Fastob. Male Halfling Paladin. Good. Fastob has a long face, with gray hair and sharp green eyes. He wears chain mail and wields a military pick and shield. Fastob has an animal companion, a white warhorse named Nichye.
+Neni. Male Elf Cleric. Neutral. Neni has a round face, with silver hair and dark brown eyes. He wears plate mail and wields a club.
+Amas. Female Elf Professional. Good. Amas is elegant in appearance, with tangled red hair and blue eyes. She wears modest garments and a sling of vials and potions.
+Dorophin. Male Elf Thief. Evil. Dorophin has a long face, with auburn hair and soft green eyes. He wears leather armor and wields a long sword.
+Cilia. Female Human Scholar. Evil. Cilia has copper hair and soft green eyes. She wears modest garments and a silver holy symbol.
+Nanain. Female Dwarf Soldier. Good. Nanain is exceptionally beautiful, with matted black hair and dark blue eyes. She wears chain mail and wields a ranseur. Nanain is a skilled singer.
+Cuthi. Female Elf Alchemist. Neutral. Cuthi is short, with golden hair and soft gray eyes. She wears expensive clothing and a leopard fur cape. Cuthi secretly serves Gaki, an ancient god of destruction.
+Ugerg. Female Elf Craftsman. Good. Ugerg has straight blonde hair and brown eyes, and a beaked nose. She wears well-made clothing and a wooden holy symbol.
+Hildo. Male Halfling Peasant. Evil. Hildo is repulsive in appearance, with copper hair and amber eyes. He wears well-made clothing and several small tools hang from his belt.
+Thildrga Godridotr. Female Dwarf Druid. Neutral. Thildrga has golden hair and large hazel eyes. She wears leather armor and wields a hammer. Thildrga is fascinated by ghosts and spirits.
+Snissa. Female Elf Ranger. Neutral. Snissa has long red hair and green eyes. She wears scale mail and wields a battle axe and dagger. Snissa is ambitious and extravagant.
+Ferthi. Male Dwarf Soldier. Good. Ferthi has thick silver hair and light amber eyes, and a matted moustache. He wears studded leather and wields a bastard sword.
+Lado. Male Halfling Paladin. Good. Lado is cultured in appearance, with blonde hair and green eyes. He wears splint mail and wields a glaive-guisarme.
+Albrand. Male Dwarf Peasant. Neutral. Albrand has short gray hair and gray eyes. He wears simple clothing and carries a birch staff. Albrand is amoral and cautious.
+Frither. Male Human Necromancer. Evil. Frither is fair in appearance, with thick golden hair and narrow brown eyes. He wears tailored clothing and wields a club and sling. Frither is bloodthirsty and insensitive.
+Niserie. Female Elf Scofflaw. Good. Niserie has long red hair and large gray eyes. She wears sturdy clothing and a wide-brimmed hat.
+Mahta. Male Elf Servant. Good. Mahta has a square face, with auburn hair and large blue eyes. He wears simple clothing and riding boots. Mahta is searching for the lost dominion of Tironde.
+Vaca. Female Elf Aristocrat. Neutral. Vaca is short and slender, with long blonde hair and brown eyes. She wears fine raiment and a feathered hat. Vaca is adventurous and lustful.
+Elelwith. Female Elf Fighter. Neutral. Elelwith has white hair and blue eyes, and large ears. She wears plate mail and wields a fauchard-fork. Elelwith is pleasant and violent.
+Arel. Female Elf Fighter. Good. Arel has blonde hair and large hazel eyes, and a beaked nose. She wears plate mail and wields a military pick and shield. Arel has an animal companion, a badger named Angrod.
+Mery Jene. Female Halfling Servant. Evil. Mery has uneven auburn hair and large amber eyes, and broken teeth. She wears modest garments and carries a hazel staff. Mery is haunted by the memories of a past life.
+Kada. Female Dwarf Fighter. Good. Kada has silver hair and green eyes. She wears splint mail and wields a ranseur.
+Monda. Female Halfling Merchant. Evil. Monda is short and overweight, with white hair and blue eyes. She wears plain clothing and several pouches hang from her belt. Monda secretly serves Male, an ancient god of evil.
+Anold. Female Halfling Cleric. Good. Anold has blonde hair and amber eyes. She wears splint mail and wields a club. Anold seeks to atone for past sins.
+Horki Thoreson. Male Dwarf Thief. Neutral. Horki is stout, with golden hair and gray eyes. He wears leather armor and wields a short sword and darts. Horki has sable ferret named Arun.
+Wilhye Cere. Male Human Cleric. Good. Wilhye is tall, with uneven golden hair and blue eyes. He wears plate mail and wields a hammer. Wilhye is a skilled actor.
+Frodo. Male Halfling Fighter. Good. Frodo is fey in appearance, with tangled gray hair and sharp amber eyes. He wears banded mail and wields a military pick. Frodo is confident and loyal.
+Urdund. Male Dwarf Priest. Neutral. Urdund has auburn hair and blue eyes. He wears expensive clothing and a gold amulet. Urdund is searching for the lost kingdom of Helladrast.
+Tina Olger. Female Halfling Illusionist. Neutral. Tina is tall and heavyset, with messy brown hair and amber eyes. She wears worn clothing and wields a dagger and sling. Tina is dying and desperately seeks the secret of immortality.
+Aghan. Female Dwarf Scholar. Neutral. Aghan is exceptionally beautiful, with short brown hair and hazel eyes. She wears modest garments and several pouches hang from her belt. Aghan has an animal companion, a red fox named Thari.
+Arding. Male Halfling Scholar. Good. Arding has cropped copper hair and gray eyes. He wears well-made clothing and a sling of vials and potions. Arding is idealistic and gullible.
+Mahturgol. Male Elf Mercenary. Neutral. Mahturgol has a square face, with thin red hair and narrow hazel eyes. He wears leather armor and wields a ranseur. Mahturgol has an animal companion, a hawk named Nimrime.
+Raffin Wyne. Male Human Fighter. Neutral. Raffin is fey in appearance, with braided golden hair and hazel eyes. He wears plate mail and wields a flail and shield. Raffin seeks only fame and glory.
+Briga. Male Elf Druid. Neutral. Briga has auburn hair and bright amber eyes. He wears leather armor and wields a quarterstaff and darts. Briga is moody and merciless.
+Mara. Female Human Illusionist. Evil. Mara has a narrow face, with matted black hair and blue eyes. She wears fine clothing and wields a quarterstaff and dagger. Mara has an arcane familiar, a phantasmal homunculus named Rancis.
+Sacci. Male Elf Peasant. Neutral. Sacci has a long face, with copper hair and dark gray eyes. He wears simple clothing and a wide-brimmed hat. Sacci suffers a paralyzing fear of fire.
+Tella. Female Halfling Cleric. Good. Tella is fey in appearance, with blonde hair and soft gray eyes. She wears banded mail and wields a quarterstaff. Tella is hunting the fiend which destroyed her homeland.
+Dinia. Female Elf Professional. Neutral. Dinia is exceptionally beautiful, with blonde hair and green eyes. She wears modest garments and a sling of vials and potions. Dinia is truthful and fiendish.
+Bride. Female Human Soldier. Good. Bride is short, with long silver hair and gray eyes. She wears studded leather and wields a bastard sword and light crossbow. Bride seeks to discover why she keeps having the same nightmare.
+Idger. Male Dwarf Peasant. Evil. Idger has a long face, with golden hair and bright blue eyes. He wears travel-stained clothing and several pouches hang from his belt. Idger compulsively scratches an old scar.
+Francis. Male Human Soldier. Neutral. Francis has tangled blonde hair and blue eyes, and a curly beard. He wears leather armor and wields a battle axe. Francis seeks to save his family from financial ruin.
+Walda. Male Human Fighter. Neutral. Walda has silver hair and narrow blue eyes. He wears banded mail and wields a bastard sword and long bow.
+Ziri. Female Dwarf Paladin. Good. Ziri is willowy, with red hair and sharp amber eyes. She wears splint mail and wields a bastard sword and shield. Ziri is a practiced juggler.
+Brytha. Female Human Entertainer. Neutral. Brytha has an angular face, with auburn hair and gray eyes. She wears modest garments and a silver holy symbol. Brytha is cautious and violent.
+Gyliam Aceyn. Male Human Professional. Evil. Gyliam is heavyset, with auburn hair and amber eyes. He wears expensive clothing and a feathered hat. Gyliam is absent-minded, and always searching for a missing item.
+Tharlex. Male Halfling Alchemist. Evil. Tharlex has thin gray hair and hazel eyes. He wears modest garments and a lynx fur cape. Tharlex is cowardly and abusive.
+Cecie None. Female Halfling Professional. Neutral. Cecie has a square face, with long gray hair and gray eyes. She wears well-made clothing and a feathered hat. Cecie is dying and desperately seeks the secret of immortality.
+Rune Esterthdotr. Female Dwarf Servant. Good. Rune is youthful in appearance, with cropped auburn hair and sharp green eyes. She wears simple clothing and a black cloak.
+Artis. Male Human Craftsman. Neutral. Artis is rough in appearance, with red hair and bright brown eyes. He wears sturdy clothing and a bronze amulet. Artis has an animal companion, a hawk named Elil.
+Iris. Female Elf Entertainer. Evil. Iris has auburn hair and sharp hazel eyes. She wears modest garments and a dragonscale cloak.
+Gerde Leifridotr. Female Dwarf Fighter. Good. Gerde is fair in appearance, with gray hair and amber eyes. She wears splint mail and wields a short sword.
+Celaser. Female Elf Paladin. Good. Celaser has a narrow face, with braided black hair and dark hazel eyes. She wears chain mail and wields a glaive-guisarme. Celaser is faithful and amoral.
+Ophinror. Male Elf Merchant. Evil. Ophinror has a long face, with short copper hair and blue eyes. He wears modest garments and a pewter amulet.
+Fingonael. Male Elf Merchant. Evil. Fingonael is short, with golden hair and brown eyes. He wears modest garments and a wooden holy symbol.
+Rida Armolfdotr. Female Dwarf Cleric. Good. Rida has cropped red hair and green eyes, and prominent ears. She wears chain mail and wields a quarterstaff.
+Telchar. Male Dwarf Ranger. Neutral. Telchar has an angular face, with copper hair and bright hazel eyes. He wears leather armor and wields a warhammer and short bow. Telchar is unbelievably lucky.
+Burga. Female Human Fighter. Neutral. Burga is short, with uneven auburn hair and large green eyes. She wears plate mail and wields a military pick and long bow. Burga is hunting the dragon who slew his mentor.
+Undin. Female Dwarf Assassin. Good. Undin has copper hair and bright green eyes. She wears leather armor and wields a poisoned short sword and darts. Undin seeks to atone for past sins.
+Horba Lugison. Male Dwarf Fighter. Evil. Horba has a narrow face, with golden hair and narrow hazel eyes. He wears splint mail and wields a battle axe. Horba is unbelievably lucky.
+Veigga. Female Dwarf Professional. Good. Veigga has a square face, with thin silver hair and soft blue eyes. She wears tailored clothing and an amulet of luminous crystal. Veigga is passionate and sarcastic.
+Vica. Female Elf Peasant. Neutral. Vica has a narrow face, with blonde hair and large brown eyes. She wears worn clothing and several pouches hang from her belt. Vica is adventurous and hard-hearted.
+Gerey Velley. Male Human Soldier. Neutral. Gerey is fey in appearance, with golden hair and blue eyes. He wears chain mail and wields a ranseur. Gerey is quiet, and says as little as possible.
+Lanta. Female Halfling Scholar. Evil. Lanta has thick golden hair and blue eyes, and small ears. She wears modest garments and a leopard fur cape. Lanta is a skilled dancer.
+Ryany Lipsev. Male Halfling Entertainer. Good. Ryany has a round face, with braided auburn hair and soft brown eyes. He wears fine clothing and a silver holy symbol. Ryany has an animal companion, a red fox named Lada.
+Marget Page. Female Halfling Servant. Neutral. Marget has a square face, with uneven red hair and soft brown eyes. She wears worn clothing and a wide-brimmed hat.
+Malia. Female Halfling Assassin. Neutral. Malia is tall, with black hair and hazel eyes. She wears leather armor and wields a short sword and dagger. Malia suffers a severe allergy to dragons.
+Kharkad. Female Dwarf Professional. Evil. Kharkad is repulsive in appearance, with straight red hair and light green eyes. She wears well-made clothing and a feathered hat.
+Thrazir. Female Dwarf Necromancer. Evil. Thrazir is exceptionally beautiful, with black hair and soft brown eyes. She wears expensive clothing and wields a long sword and dagger. Thrazir dislikes having people behind her.
+Sunngiue. Female Human Merchant. Neutral. Sunngiue has a long face, with golden hair and hazel eyes. She wears worn clothing and carries a blackthorn staff. Sunngiue blames the gods for every misfortune.
+Celaden. Male Elf Fighter. Good. Celaden has an angular face, with thick brown hair and brown eyes. He wears splint mail and wields a warhammer and short bow. Celaden is hunting the demon who murdered his family.
+Stomath. Male Halfling Druid. Neutral. Stomath has golden hair and brown eyes. He wears leather armor and wields a hammer and dagger. Stomath is a pack-rat, and carries a satchel of random junk.

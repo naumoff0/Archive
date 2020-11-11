@@ -1,0 +1,14 @@
+Long
+Short
+Tall
+Fat
+Small
+Big
+Eldritch
+Dark
+Unholy
+Holy
+Cursed
+number_this
+Grand
+Death To

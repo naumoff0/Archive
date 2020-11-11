@@ -1,0 +1,5 @@
+/home/ubuntu/workspace/RP/dev/test/coreBurn.py
+/home/ubuntu/workspace/RP/dev/test/fileList.txt
+/home/ubuntu/workspace/RP/dev/test/__pycache__/protection.cpython-36.pyc
+/home/ubuntu/workspace/RP/dev/test/__pycache__/coreBurn.cpython-36.pyc
+/home/ubuntu/workspace/RP/dev/test/target/kill
